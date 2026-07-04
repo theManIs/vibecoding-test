@@ -1,0 +1,1897 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+	<script type="text/javascript">
+		window.isAccountRedesignEnabledForNotice =
+			false;
+	</script>
+	
+		<meta http-equiv=Content-Type content="text/html;charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	
+				<link rel="shortcut icon" href="https://fs.getcourse.ru/fileservice/file/download/a/934144/sc/240/h/fb783df3c47bb9bdf8432ac158d24131.png">
+	
+	
+	
+		<title>Обратная связь</title>
+
+	<script>
+		window.addFilesLabel = "Добавить файлы";
+	</script>
+
+
+	<script>
+		
+		window.gcSessionId = 0;
+		window.accountUserId = -1;
+		window.isSublogined = false;
+		window.accountId = 934144;
+		window.controllerId = "system";
+		window.actionId = "contact";
+		window.nowTime = new Date(2026, 6, 05, 00, 12, 59);
+		window.dateOffset = 3;
+		window.userInfo = {"isAdmin":false,"isManager":false,"isInAccount":false,"isTeacher":false,"canCms":false,"canEditHelp":false,"canViewTasksBlock":false,"isHumanDesign":"0"};
+
+		window.currencyLabels = {"RUB":"RUB","USD":"USD","EUR":"EUR","GBP":"GBP","BYR":"BYR","BYN":"BYN","KZT":"KZT","UAH":"UAH","AUD":"AUD","DKK":"DKK","CHF":"CHF","SEK":"SEK","ZAR":"ZAR","AMD":"AMD","RON":"RON","BRL":"BRL","ILS":"ILS","MYR":"MYR","SGD":"SGD","KGS":"KGS","CAD":"CAD","MXN":"MXN","JPY":"JPY","UZS":"UZS","PLN":"PLN","AZN":"AZN","AED":"AED","TRY":"TRY","INR":"INR","RSD":"RSD","CZK":"CZK","MNT":"MNT","NZD":"NZD","BGN":"BGN","IDR":"IDR","CNY":"CNY","GEL":"GEL","COP":"COP","ARS":"ARS","PEN":"PEN","CLP":"CLP","VND":"VND","PHP":"PHP","DOP":"DOP","KRW":"KRW","TWD":"TWD","MDL":"MDL","TJS":"TJS","NOK":"NOK","NGN":"NGN","HKD":"HKD","POINTS":""};
+window.accountSafeUserName = "Guest";
+window.accountUserThumbnail = "<img class=\"user-profile-image user-default-profile-image\" src=\"\/public\/img\/default_profile_50.png\" width=\"50\" alt=\"\">";
+window.language = "ru";
+window.csrfToken = "l1BSi7AcuRPsbnwgsoIdFbApnyjfaepZy6Dqd3AYnEuiDzvs8n36QbZZTReCxk5ZyUbuWJ0MnwuR66IaBWnuOw==";
+window.requestTime = 1783199579;
+window.requestSimpleSign = "971b5f5e9c8e8c68e01d8f5b60bf49d9";
+window.gcUniqId = "20220603866a49775b2e3e48.27510003.1783199579.1894";
+window.mailingVisibility = 0;
+window.isSupportChatEnabled = false;
+window.disableCaptchaForConfirmPhone = false;
+window.allowRevealPassword = false;
+window.isDisabledConvertIndexToSimple = false;
+window.params_52 = 0;
+window.isSessionLocalStorageEnabled = true;
+window.isWhatsappIconEnabled = false;
+window.file_upload_blocking = false;
+window.storage_usage_percent = null;
+window.used_storage_size = null;
+window.max_storage_size = null;
+window.fileserviceThumbnailHost = "fs-thb01.getcourse.ru";
+window.fileserviceMainHost = "fs16.getcourse.ru";
+window.fileserviceUploadHost = "fs17.getcourse.ru";
+window.fileserviceTusFeatureEnabled = true;
+window.iCanSelectGridOffset = true;
+window.webinarUsePlayer15 = false;
+window.isEnabledSecureUpload = 1;
+window.webinarWebsocketHosts = ["ws11.getcourse.ru","stream01.gcfiles.net"];
+window.webinarWebsocketPath = "\/ws2\/webinar";
+window.webSocketHost = "ws04.getcourse.ru";
+window.fdsrevEnabled12 = true;
+window.isDisabledFacebook = true;
+window.metaIsAnExtremismOrganizationText = "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f Meta \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u0430 \u044d\u043a\u0441\u0442\u0440\u0435\u043c\u0438\u0441\u0442\u0441\u043a\u043e\u0439 \u0432 \u0420\u0424.";
+window.isTestingV2 = false;
+window.testingV2VersionCheck = false;
+window.isDisabledVK = false;
+window.isEnableForeignAuthMethods = false;
+window.autoGenerateSubtitlesSectionEnabled = true;
+window.internalDomains = ["usmanovafit.gymteam.ru","usmanovafit.getcourse.ru"];
+window.vhApiHost = "api2.gcvh.ru";
+window.vhsRegion = "ru";
+window.videoLinkFeatureUsed = 0;
+window.helpdeskEnabledFeature = false;
+window.helpdeskTalksEnabledFeature = false;
+window.enabledTariffsPage = true;
+window.tgButtonColorsEnabledFeature = true;
+window.relatedUsersOnActiveBlock = true;
+window.UShort = "Wy0xXQ.GxRucEexSTvGUJrV9zi7BbHglECa4RM1Y-9Y1BjNqoo";
+window.ULong = "Wy0xXQ.GxRucEexSTvGUJrV9zi7BbHglECa4RM1Y-9Y1BjNqoo";
+window.gcRedesign = {"isLessonRedesignEnabled":false};
+window.attachContactToUserUpdateFeature = false;
+window.enableRuleCopyToClipboardFeature = true;
+window.ShowFaceBookDisclaimerFeature = true;
+window.proMode = true;
+window.proModeUser = true;
+window.maxEnabledFeature = true;
+window.gcAccountMenuBadges = {"showQualityMark":false,"qualityMarkHref":"","showTopOnePercent":false,"topOneHref":""};
+window.canFileStorage = false;
+	</script>
+
+	<link href="/nassets/css/xdget-view-3f53de8bb8a5edae1beae1a3cb890dbe.css?v=1783178002" rel="stylesheet">
+<link href="/nassets/4b8ca1d0/themes/smoothness/jquery-ui.css?v=1765633902" rel="stylesheet">
+<link href="/nassets/css/redactor-6c38386bcef8b2fbd9233919438c6257.css?v=1783178002" rel="stylesheet">
+<link href="/nassets/25b314e/uploadifive.css?v=1765633900" rel="stylesheet">
+<link href="/nassets/7bc22803/custom_form.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/7bc22803/select.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/7bc22803/multi_select.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/7bc22803/text.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/7bc22803/string.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/7bc22803/checkbox.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/7bc22803/date.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/7bc22803/file.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/7bc22803/password.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/7bc22803/phone.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/7bc22803/phone_confirm.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/7bc22803/numeric.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/28c8bf18/bootstrap-social.css?v=1780064645" rel="stylesheet">
+<link href="/nassets/40e57a39/css/blueimp-gallery.min.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/40e57a39/css/blueimp-gallery-indicator.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/a633eb01/jquery.countdown.css?v=1765633898" rel="stylesheet">
+<link href="/nassets/d142fbf/css/bootstrap.min.css?v=1777880033" rel="stylesheet">
+<link href="/nassets/abe8451a/toast/css/jquery.toast.min.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/7aad1ce7/jquery.emojiarea.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/7aad1ce7/emoji.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/1ee1e72c/css/audio-comments.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/f3d0f6fb/css/like.css?v=1765633900" rel="stylesheet">
+<link href="/nassets/a15a801a/css/subscribe.css?v=1765633901" rel="stylesheet">
+<link href="/nassets/e18c7588/proxima.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/8dac3fb3/css/user-form.css?v=1765633901" rel="stylesheet">
+<link href="/nassets/83a0bbdf/css/flex-audio-js.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/83a0bbdf/css/comments.css?v=1756107347" rel="stylesheet">
+<link href="/nassets/83a0bbdf/css/comment_reply_open.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/9a95ff58/statuses.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/639a08f5/tasks-block.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/e6953c0c/css/modal.css?v=1765633900" rel="stylesheet">
+<link href="/nassets/9f614c7f/notice.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/86fb0827/css/als-granate-vf-new.css?v=1777450802" rel="stylesheet">
+<link href="/nassets/de470cdd/css/all.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/de470cdd/css/v5-font-face.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/de470cdd/css/v4-font-face.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/de470cdd/css/v4-shims.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/de470cdd/css/old.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/5ff1daa/css/bootstrap-datepicker3.min.css?v=1765633902" rel="stylesheet">
+<link href="/nassets/5ff1daa/css/datepicker-kv.min.css?v=1765633902" rel="stylesheet">
+<link href="/nassets/82b491ed/glyphicons.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/3288556b/css/reveal-password.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/b9c49911/css/global.css?v=1777450802" rel="stylesheet">
+<link href="/nassets/44f6feca/manrope.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/7717e45a/css/main.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/7717e45a/css/jquery.toast.min.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/7717e45a/css/fonts.css?v=1765633899" rel="stylesheet">
+<link href="/nassets/78928de/teach.css?v=1765633901" rel="stylesheet">
+<link href="/nassets/2f62ff86/common.css?v=1774347238" rel="stylesheet">
+<link href="/nassets/2f62ff86/common_layout.css?v=1768476450" rel="stylesheet">
+<link href="/nassets/2f62ff86/account_layout.css?v=1782805273" rel="stylesheet">
+<link href="/nassets/2f62ff86/fonts.css?v=1765633900" rel="stylesheet">
+<link href="/nassets/7717e45a/css/menu.css?v=1777450802" rel="stylesheet">
+<link href="/nassets/f3a3f398/notifications.css?v=1765633901" rel="stylesheet">
+<style></style>
+<script src="/nassets/2b98cd16/jquery.min.js?v=1765633902"></script>
+<script src="/nassets/4b8ca1d0/jquery-ui.min.js?v=1765633902"></script>
+<script src="/nassets/34e59808/js/JsTrans.min.js?v=1765633900"></script>
+<script src="/nassets/c0e0694/dictionary-gen-535872c697740587ab43fcbddef592b487bffa2e.js?v=1783177200"></script>
+<script src="/nassets/25b314e/jquery.uploadifive.min.js?v=1781605037"></script>
+<script src="/nassets/25b314e/uploadifive-rewrite.js?v=1765633900"></script>
+<script src="/nassets/636461e3/jquery.autosize.min.js?v=1765633899"></script>
+<script src="/nassets/c0e0694/dictionary-gen-e3b4b1a84ab353e60c498987f0f879fdacf5b884.js?v=1783177200"></script>
+<script src="/nassets/ec6d9f5b/yii.js?v=1777740740"></script>
+<script src="/nassets/d142fbf/js/bootstrap.min.js?v=1765633902"></script>
+<script src="/nassets/abe8451a/js/jquery.toast.min.js?v=1765633899"></script>
+<script src="/nassets/636461e3/jquery.form.min.js?v=1765633899"></script>
+<script src="/nassets/7aad1ce7/jquery.emojiarea.js?v=1765633899"></script>
+<script src="/nassets/7aad1ce7/emoji.js?v=1765633899"></script>
+<script src="/nassets/1ee1e72c/js/audio-comments.js?v=1777898469"></script>
+<script src="/nassets/1ee1e72c/js/RecordRTC.min.js?v=1765633899"></script>
+<script src="/nassets/8dac3fb3/js/user-form-def.js?v=1765633901"></script>
+<script src="/nassets/f3d0f6fb/js/like.js?v=2"></script>
+<script src="/nassets/a15a801a/js/subscribe.js?v=1765633901"></script>
+<script src="/nassets/7717e45a/js/react/react.min.js?v=1765633899"></script>
+<script src="/nassets/8dac3fb3/js/build/user-form.js?v=1782804667"></script>
+<script src="/nassets/7717e45a/js/socket.io.slim.js?v=1765633899"></script>
+<script src="/nassets/7717e45a/js/socket.js?v=1765633899"></script>
+<script src="/nassets/7717e45a/js/websocket.global.js?v=1765633899"></script>
+<script src="/nassets/83a0bbdf/js/comments.js?v=1742806457"></script>
+<script src="/nassets/83a0bbdf/js/comment_reply_open.js?v=1765633899"></script>
+<script src="/nassets/83a0bbdf/js/comment_template_dialog.js?v=1765633899"></script>
+<script src="/nassets/e6953c0c/js/modal.js?v=1765633900"></script>
+<script src="/nassets/636461e3/jquery.sticky.js?v=1765633899"></script>
+<script src="/nassets/5ff1daa/js/bootstrap-datepicker.min.js?v=1765633902"></script>
+<script src="/nassets/5ff1daa/js/datepicker-kv.min.js?v=1765633902"></script>
+<script src="/nassets/c73799f4/js/datepicker-reset.js?v=1765633899"></script>
+<script src="/nassets/b9c49911/js/global-function.js?v=1779966196"></script>
+<script src="/nassets/3288556b/js/reveal-password.js?v=1765633899"></script>
+<script src="/nassets/b9c49911/js/main.js?v=1777450802"></script>
+<script src="/nassets/85b801e8/jquery.inputmask.bundle.js?v=1765633902"></script>
+<script>window.globalCheckboxEnabled=false
+window.persodataConfirm=false
+window.globalCheckboxForPaidOnly=false
+window.globalCheckboxText="\u042f \u0441\u043e\u0433\u043b\u0430\u0441\u0435\u043d \u0441 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u043c\u0438&nbsp;<a href=\"\/legal\" target=\"_blank\">\u041e\u0444\u0435\u0440\u0442\u044b<\/a>"
+window.pdpCheckboxEnabled=false
+window.pdpConfirmedByDefault=false
+window.pdpCheckboxText="\u042f \u0441\u043e\u0433\u043b\u0430\u0441\u0435\u043d \u043d\u0430 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0443 \u043c\u043e\u0438\u0445 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445. \u0421&nbsp;<a href=\"\/privacypolicy\" target=\"_blank\">\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u043e\u0439 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445<\/a>&nbsp;\u043e\u0437\u043d\u0430\u043a\u043e\u043c\u043b\u0435\u043d."
+window.checkboxMailingEnabled=true
+window.checkboxMailingChecked=true
+window.checkboxMailingForPaidOnly=false
+window.checkboxMailingText="\u042f \u0441\u043e\u0433\u043b\u0430\u0441\u043d\u0430 \u043d\u0430 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0438 \u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433\u043e\u0432\u044b\u0445 \u0440\u0430\u0441\u0441\u044b\u043b\u043e\u043a (\u0432\u044b \u0432 \u043b\u044e\u0431\u043e\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u043c\u043e\u0436\u0435\u0442\u0435 \u043e\u0442\u043a\u0430\u0437\u0430\u0442\u044c\u0441\u044f \u043e\u0442 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u043f\u0438\u0441\u0435\u043c \u0432 \u043b\u0438\u0447\u043d\u043e\u043c \u043a\u0430\u0431\u0438\u043d\u0435\u0442\u0435)"
+window.isMailingCheckboxRequired=false
+window.isMailingCheckboxRequiredForNotPaid=false
+window.isLegalReworkFeatureEnabled=true
+window.chatiumQrAjaxAuth=true;</script>
+								
+			<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=106868527', 'ym');
+
+    ym(106868527, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/106868527" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</head>
+<body class="gc-user-guest">
+
+
+
+<div class="gc-main-content gc-both-main-content no-menu  account-page-content gc-user-guest">
+		<div class="page-full-block">
+		
+
+    	<style>
+	.gc-account-logo-layout-default {
+		justify-content: flex-start;
+	}
+
+	.gc-account-logo-layout-login {
+		justify-content: center;
+	}
+</style>
+	<div class="main-page-block ">
+
+        <div class="container main-page-container" style="position: relative">
+			<div>
+                
+									<div class="logo gc-account-logo gc-account-logo-layout-default" style="margin-bottom: 20px; display: flex; align-items: center; flex-wrap: wrap; gap: 8px; width: 100%; margin-left: 0; margin-right: 0; box-sizing: border-box;">
+						<a href='/' class="logo-link">
+															<img src='//fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/215e0d34974329c1d0d8e8963794adc6.jpg/s/x50/a/934144/sc/63' alt='' title=''>													</a>
+																								</div>
+				
+                
+			</div>
+
+												<div class="empty-breadcrumbs">
+
+					</div>
+										            
+
+
+
+                            
+
+<style>
+	
+.gc-account-logo { text-align: center }</style>
+
+
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'html',
+			group: "common",
+			jsName:	'xdget_html',
+			label: 'HTML-блок',
+			defaultParams: {"content":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac nisi ornare, aliquam nulla eget, pharetra orci. Pellentesque id ligula vel mauris porttitor cursus. Pellentesque sit amet mattis dui, id commodo nisl. Phasellus blandit dignissim magna, et posuere velit porttitor hendrerit. Maecenas dolor nisl, dignissim sit amet leo viverra, efficitur tristique arcu. Vestibulum at nulla magna. Maecenas cursus pretium pulvinar. Ut gravida consectetur massa. Donec blandit aliquet ante blandit iaculis.<\/p>","typograf":true},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-html5',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'tag',
+			group: "common",
+			jsName:	'xdget_tag',
+			label: 'Tag',
+			defaultParams: {"content":""},
+			allowedParentTypes: true,
+			iconClass: 'glyphicon glyphicon-asterisk',
+			blockTag: 'span',
+			selfBlock: true,
+			selfMeaningful: false					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'header',
+			group: "common",
+			jsName:	'xdget_header',
+			label: 'Заголовок',
+			defaultParams: {"content":"Header","typograf":true},
+			allowedParentTypes: true,
+			iconClass: 'glyphicon glyphicon-header',
+			blockTag: 'h2',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'container',
+			group: "blocks",
+			jsName:	'xdget_container',
+			label: 'Container',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: false					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'row',
+			group: "blocks",
+			jsName:	'xdget_row',
+			label: 'Колонки',
+			defaultParams: {"children":[{"type":"container","params":[]},{"type":"container","params":[]}]},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: false							,settings: {"mainSettings":{"float_width":{"label":"\u041d\u0435 \u0437\u0430\u043d\u0438\u043c\u0430\u0442\u044c \u0432\u0441\u044e \u0448\u0438\u0440\u0438\u043d\u0443","type":"checkbox"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'substitution',
+			group: "blocks",
+			jsName:	'xdget_substitution',
+			label: 'Substitution',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: false					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'area',
+			group: "blocks",
+			jsName:	'xdget_area',
+			label: 'Area',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: false					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'div',
+			group: "blocks",
+			jsName:	'xdget_div',
+			label: 'Контейнер',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'glyphicon glyphicon-unchecked',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"mainParams":{"hide_with_children":{"type":"checkbox","label":"\u0421\u043a\u0440\u044b\u0432\u0430\u0442\u044c, \u0435\u0441\u043b\u0438 \u043d\u0435 \u0432\u0441\u0435 \u0434\u043e\u0447\u0435\u0440\u043d\u0438\u0435 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u044b \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442\u0441\u044f"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'fixedContainer',
+			group: "blocks",
+			jsName:	'xdget_div',
+			label: 'Fixed container',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'glyphicon glyphicon-unchecked',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: false							,settings: {"elementTitle":null}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'section',
+			group: "section",
+			jsName:	'xdget_section',
+			label: 'Секция',
+			defaultParams: [],
+			allowedParentTypes: ["area"],
+			iconClass: 'fa fa-square-o',
+			blockTag: 'section',
+			selfBlock: true,
+			selfMeaningful: false					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'list',
+			group: "blocks",
+			jsName:	'xdget_list',
+			label: 'Список',
+			defaultParams: {"children":[{"type":"item","params":{"content":"Item 1"}},{"type":"item","params":{"content":"Item 2"}}]},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-list-ul',
+			blockTag: 'ul',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'item',
+			group: "blocks",
+			jsName:	'xdget_item',
+			label: 'Пункт',
+			defaultParams: {"content":"Item"},
+			allowedParentTypes: ["list"],
+			iconClass: 'fa fa-asterisk',
+			blockTag: 'li',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'userForm',
+			group: "form",
+			jsName:	'xdget_userForm',
+			label: 'Форма регистрации',
+			defaultParams: {"elClass":"standard-form","children":[{"type":"header","params":{"content":"\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a \u0444\u043e\u0440\u043c\u044b","size":"h3"}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"email","fieldOptions":{"label":"Email","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441"}}}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"full_name","fieldOptions":{"label":"\u0424\u0418\u041e","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448\u0435 \u0438\u043c\u044f \u0438 \u0444\u0430\u043c\u0438\u043b\u0438\u044e"}}}},{"type":"userFormField","params":{"fieldType":"phone","fieldName":"phone","fieldOptions":{"label":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d","required":false,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u0442\u0435\u043b\u0435\u0444\u043e\u043d"}}}},{"type":"div","params":{"elClass":"form-buttons","children":[{"type":"button","params":{"content":"\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f","elClass":"btn btn-success"}}]}}]},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-list-alt',
+			blockTag: 'form',
+			selfBlock: true,
+			selfMeaningful: false							,settings: {"states":[]}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'userFormField',
+			group: "common",
+			jsName:	'xdget_userFormField',
+			label: 'Поле формы',
+			defaultParams: [],
+			allowedParentTypes: ["userForm","orderForm","registerAccountForm","userCompleteForm","loginUserForm","contactUserForm","contactForm","surveyUserForm","groupUserForm","becomePartnerForm"],
+			iconClass: 'list-alt',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'socialUserFormField',
+			group: "common",
+			jsName:	'xdget_socialUserFormField',
+			label: 'Привязка соцсетей',
+			defaultParams: [],
+			allowedParentTypes: ["userForm","orderForm","registerAccountForm","userCompleteForm","loginUserForm","contactUserForm","contactForm","surveyUserForm","groupUserForm","becomePartnerForm"],
+			iconClass: 'list-alt',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"mainSettings":{"label":{"label":"\u041d\u0430\u0434\u043f\u0438\u0441\u044c \u043f\u0435\u0440\u0435\u0434 \u043a\u043d\u043e\u043f\u043a\u0430\u043c\u0438","type":"string"},"button_type":{"label":"\u0422\u0438\u043f \u043a\u043d\u043e\u043f\u043e\u043a","type":"select","values":{"icons":"\u0418\u043a\u043e\u043d\u043a\u0438","buttons":"\u041a\u043d\u043e\u043f\u043a\u0438"}},"button_size":{"label":"\u0420\u0430\u0437\u043c\u0435\u0440 \u043a\u043d\u043e\u043f\u043e\u043a","type":"select","values":{"":"\u041f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e","xs":"\u041e\u0447\u0435\u043d\u044c \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0435","sm":"\u041c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0435","lg":"\u0411\u043e\u043b\u044c\u0448\u0438\u0435"}},"buttons_layout":{"label":"\u0420\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043a\u043d\u043e\u043f\u043e\u043a","type":"select","values":{"":"\u0412 \u0440\u044f\u0434","lines":"\u041a\u0430\u0436\u0434\u0430\u044f \u043d\u0430 \u0441\u0432\u043e\u0435\u0439 \u0441\u0442\u0440\u043e\u0447\u043a\u0435"}},"not_continue_process":{"label":"\u041d\u0435 \u043f\u043e\u0441\u044b\u043b\u0430\u0442\u044c \u0444\u043e\u0440\u043c\u0443 \u043f\u043e\u0441\u043b\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f","type":"checkbox"},"button_prefix":{"label":"\u041f\u0440\u0435\u0444\u0438\u043a\u0441 \u043d\u0430 \u043a\u043d\u043e\u043f\u043a\u0435","type":"string"}},"availableButtons":{"chatium":{"label":"Chatium","img":"\/public\/img\/service\/chatium.png"},"vk":{"label":"\u0412\u043e\u0439\u0442\u0438 \u0441 VK ID","icon":"fa fa-vk"},"yandex_id":{"label":"Yandex ID","icon":""}},"isVkBotEnabled":false}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'standard',
+			group: "common",
+			jsName:	'xdget_standard',
+			label: 'standard',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: false					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'separator',
+			group: "common",
+			jsName:	'xdget_separator',
+			label: 'Разделитель',
+			defaultParams: {"content":""},
+			allowedParentTypes: true,
+			iconClass: 'glyphicon glyphicon-minus',
+			blockTag: 'hr',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'button',
+			group: "common",
+			jsName:	'xdget_button',
+			label: 'Кнопка',
+			defaultParams: {"content":""},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-hand-o-up',
+			blockTag: 'button',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'image',
+			group: "common",
+			jsName:	'xdget_image',
+			label: 'Изображение',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-file-image-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'fileList',
+			group: "common",
+			jsName:	'xdget_fileList',
+			label: 'Список файлов',
+			defaultParams: {"showTitle":true,"showDescription":true},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-files-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'gallery',
+			group: "common",
+			jsName:	'xdget_gallery',
+			label: 'Галерея',
+			defaultParams: {"showTitle":true,"showDescription":true,"viewMode":"list","previewSize":"small","thumbnailBorder":true},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-file-image-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'offer',
+			group: "common",
+			jsName:	'xdget_offer',
+			label: 'Предложение',
+			defaultParams: [],
+			allowedParentTypes: ["offerSelector"],
+			iconClass: 'fa fa-list-alt',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'offerSelector',
+			group: "blocks",
+			jsName:	'xdget_offerSelector',
+			label: 'Выбор предложения',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-list-alt',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: false					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'groupUserForm',
+			group: "form",
+			jsName:	'xdget_userForm',
+			label: 'Форма записи в группу',
+			defaultParams: {"elClass":"standard-form","state":"before_send","children":[{"type":"header","params":{"content":"\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a \u0444\u043e\u0440\u043c\u044b","size":"h2"}},{"type":"fixedContainer","params":{"elementTitle":"\u0424\u043e\u0440\u043c\u0430","fixedClass":"state-form before-send-form","children":[{"type":"userFormField","params":{"fieldType":"string","fieldName":"email","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441"}}}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"name","fieldOptions":{"label":"","hide_filled":true,"required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448\u0435 \u0438\u043c\u044f"}}}},{"type":"userFormField","params":{"fieldType":"phone","fieldName":"phone","fieldOptions":{"label":"","hide_filled":true,"required":false,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u0442\u0435\u043b\u0435\u0444\u043e\u043d"}}}},{"type":"row","params":{"elClass":"form-buttons","float_width":true,"children":[{"type":"container","params":{"children":[{"type":"button","params":{"content":"\u0417\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f","elClass":"btn btn-success"}}]}},{"type":"container","params":{"elClass":"pull-right","elementTitle":"\u0411\u043b\u043e\u043a \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u043a\u043d\u043e\u043f\u043e\u043a","children":[{"type":"socialUserFormField","params":{"elClass":"text-right","label":"\u0418\u043b\u0438 \u0437\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e","invisibleTo":"users"}}]}}]}}]}},{"type":"fixedContainer","params":{"elementTitle":"\u041f\u043e\u0441\u043b\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043a\u0438","fixedClass":"state-form after-send-form","children":[{"type":"html","params":{"content":"<b>\u0421\u043f\u0430\u0441\u0438\u0431\u043e, \u0432\u044b \u0437\u0430\u043f\u0438\u0441\u0430\u043d\u044b<\/b>"}}]}},{"type":"fixedContainer","params":{"elementTitle":"\u0423\u0436\u0435 \u0432 \u0433\u0440\u0443\u043f\u043f\u0435","fixedClass":"state-form already-in-group-form","children":[{"type":"html","params":{"content":"\u0412\u044b \u0443\u0436\u0435 \u0437\u0430\u043f\u0438\u0441\u0430\u043d\u044b"}}]}}]},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-list-alt',
+			blockTag: 'form',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"states":{"before_send":"\u0424\u043e\u0440\u043c\u0430","after_send":"\u041f\u043e\u0441\u043b\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043a\u0438","already_in_group":"\u0423\u0436\u0435 \u0432 \u0433\u0440\u0443\u043f\u043f\u0435"},"elementTitle":"\u0424\u043e\u0440\u043c\u0430 \u0437\u0430\u043f\u0438\u0441\u0438 \u0432 \u0433\u0440\u0443\u043f\u043f\u0443","mainSettings":{"in_group_action":{"label":"\u0415\u0441\u043b\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u0443\u0436\u0435 \u0432 \u0433\u0440\u0443\u043f\u043f\u0435","type":"select","values":{"show_already_block":"\u041f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u0435 \u0431\u043b\u043e\u043a\u0430 &quot;\u0423\u0436\u0435 \u0432 \u0433\u0440\u0443\u043f\u043f\u0435&quot;","hide_form":"\u0421\u043a\u0440\u044b\u0432\u0430\u0442\u044c \u0432\u0441\u044e \u0444\u043e\u0440\u043c\u0443","show_form":"\u041f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u0444\u043e\u0440\u043c\u0443 \u0437\u0430\u043f\u0438\u0441\u0438"}},"authless":{"label":"\u041d\u0435 \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u0430\u0446\u0438\u0438","type":"checkbox"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'orderForm',
+			group: "form",
+			jsName:	'xdget_orderForm',
+			label: 'Форма продажи',
+			defaultParams: {"elClass":"standard-form","children":[{"type":"header","params":{"content":"\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a \u0444\u043e\u0440\u043c\u044b","size":"h3"}},{"type":"offerSelector","params":{"children":[{"type":"offer","params":[]}]}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"email","fieldOptions":{"label":"\u042d\u043b. \u0430\u0434\u0440\u0435\u0441","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441"}}}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"name","fieldOptions":{"label":"\u0424\u0418\u041e","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448\u0435 \u0438\u043c\u044f"}}}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"phone","fieldOptions":{"label":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d","required":false,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u0442\u0435\u043b\u0435\u0444\u043e\u043d"}}}},{"type":"div","params":{"elClass":"form-buttons","children":[{"type":"button","params":{"content":"\u041e\u0444\u043e\u0440\u043c\u0438\u0442\u044c \u0437\u0430\u043a\u0430\u0437","elClass":"btn btn-success"}}]}}]},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-money',
+			blockTag: 'form',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"states":[]}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'surveyForm',
+			group: "common",
+			jsName:	'xdget_standard',
+			label: 'Анкета',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-list-alt',
+			blockTag: 'form',
+			selfBlock: true,
+			selfMeaningful: false					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'contactForm',
+			group: "form",
+			jsName:	'xdget_userForm',
+			label: 'Форма обратной связи',
+			defaultParams: {"elClass":"standard-form","state":"before_send","children":[{"type":"fixedContainer","params":{"elementTitle":"\u0424\u043e\u0440\u043c\u0430","fixedClass":"state-form before-send-form","children":[{"type":"header","params":{"content":"\u041e\u0431\u0440\u0430\u0442\u043d\u0430\u044f \u0441\u0432\u044f\u0437\u044c","size":"h2"}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"email","fieldOptions":{"label":"\u0412\u0430\u0448 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441","hide_filled":true,"required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043c\u044b \u043f\u0440\u0438\u0448\u043b\u0435\u043c \u043e\u0442\u0432\u0435\u0442"}}}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"full_name","fieldOptions":{"label":"\u0412\u0430\u0448\u0435 \u0438\u043c\u044f","hide_filled":true,"required":false,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448\u0435 \u0438\u043c\u044f"}}}},{"type":"userFormField","params":{"fieldType":"text","fieldName":"text","fieldOptions":{"label":"\u0422\u0435\u043a\u0441\u0442 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f","required":true,"settings":{"placeholder":"\u041e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u0441\u0432\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438","rows":7}}}},{"type":"div","params":{"elClass":"form-buttons","children":[{"type":"button","params":{"content":"\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435","elClass":"btn btn-success"}}]}}]}},{"type":"fixedContainer","params":{"elementTitle":"\u041f\u043e\u0441\u043b\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043a\u0438","fixedClass":"state-form after-send-form","children":[{"type":"header","params":{"content":"\u0421\u043f\u0430\u0441\u0438\u0431\u043e","size":"h2"}},{"type":"html","params":{"content":"\u0412\u0430\u0448\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043e"}}]}}]},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-comment',
+			blockTag: 'form',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"states":{"before_send":"\u0424\u043e\u0440\u043c\u0430","after_send":"\u041f\u043e\u0441\u043b\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043a\u0438"},"elementTitle":"\u0424\u043e\u0440\u043c\u0430 \u043e\u0431\u0440\u0430\u0442\u043d\u043e\u0439 \u0441\u0432\u044f\u0437\u0438"}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'loginUserForm',
+			group: "form",
+			jsName:	'xdget_userForm',
+			label: 'Форма входа / регистрации',
+			defaultParams: {"elClass":"standard-form","default_state":"login","state":"register","children":[{"type":"fixedContainer","params":{"elementTitle":"\u0411\u043b\u043e\u043a \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u0430\u0446\u0438\u0438","fixedClass":"login-form state-form","children":[{"type":"tag","params":{"content":"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f","size":"h4","elClass":"btn btn-link pull-right","fixedClass":"btn-register"}},{"type":"header","params":{"content":"\u0412\u043e\u0439\u0442\u0438","size":"h2"}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"email","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441"}}}},{"type":"userFormField","params":{"fieldType":"password","fieldName":"password","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u0430\u0440\u043e\u043b\u044c"}}}},{"type":"row","params":{"elClass":"form-buttons","float_width":true,"children":[{"type":"button","params":{"content":"\u0412\u043e\u0439\u0442\u0438","elClass":"btn btn-success"}},{"type":"button","params":{"content":"\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u043f\u0430\u0440\u043e\u043b\u044c","elClass":"btn btn-link","fixedClass":"btn-remind"}},{"type":"socialUserFormField","params":{"elClass":"pull-right","button_type":"icons","label":""}}]}}]}},{"type":"fixedContainer","params":{"elementTitle":"\u0411\u043b\u043e\u043a \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438","fixedClass":"register-form state-form","children":[{"type":"button","params":{"content":"\u0412\u0445\u043e\u0434","elClass":"btn btn-link pull-right","fixedClass":"btn-login"}},{"type":"header","params":{"content":"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f","size":"h2"}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"email","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441"}}}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"full_name","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448\u0435 \u0438\u043c\u044f \u0438 \u0444\u0430\u043c\u0438\u043b\u0438\u044e"}}}},{"type":"row","params":{"elClass":"form-buttons","children":[{"type":"container","params":{"children":[{"type":"button","params":{"content":"\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f","elClass":"btn btn-success"}}]}},{"type":"container","params":{"children":[{"type":"socialUserFormField","params":{"elClass":"text-right"}}]}}]}}]}},{"type":"fixedContainer","params":{"elementTitle":"\u0411\u043b\u043e\u043a \u0434\u043b\u044f \u0443\u0436\u0435 \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e","fixedClass":"logined-form state-form","children":[{"type":"header","params":{"content":"\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435, :first_name","size":"h2"}},{"type":"html","params":{"content":"\u0412\u044b \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u043e\u0432\u0430\u043d\u044b \u0432 \u044d\u0442\u043e\u043c \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0435<BR><BR>"}},{"type":"div","params":{"elClass":"form-buttons","children":[{"type":"button","params":{"content":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u0432 \u0430\u043a\u043a\u0430\u0443\u043d\u0442","fixedClass":"btn-enter","elClass":"btn btn-primary"}},{"type":"button","params":{"content":"\u0421\u043c\u0435\u043d\u0438\u0442\u044c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f","fixedClass":"btn-logout","elClass":"btn btn-link pull-right"}}]}}]}}]},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-sign-in',
+			blockTag: 'form',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"states":{"register":"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f","login":"\u0412\u0445\u043e\u0434","logined":"\u0414\u043b\u044f \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0445"},"mainSettings":{"default_state":{"type":"select","label":"\u0421\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u043f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e","values":{"register":"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f","login":"\u0412\u0445\u043e\u0434"}},"not_use_logined_block":{"type":"checkbox","label":"\u041f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u0444\u043e\u0440\u043c\u0443 \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u043c"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'surveyUserForm',
+			group: "form",
+			jsName:	'xdget_userForm',
+			label: 'Анкета',
+			defaultParams: {"elClass":"standard-form","state":"before_send","children":[{"type":"fixedContainer","params":{"elementTitle":"\u0424\u043e\u0440\u043c\u0430","fixedClass":"state-form before-send-form","children":[{"type":"header","params":{"content":"\u0417\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u0430\u043d\u043a\u0435\u0442\u0443","size":"h2"}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"email","fieldOptions":{"label":"\u042d\u043b. \u0430\u0434\u0440\u0435\u0441","hide_filled":true,"required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441"}}}},{"type":"surveyFieldsFormField","params":[]},{"type":"div","params":{"elClass":"form-buttons","children":[{"type":"button","params":{"content":"\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u0430\u043d\u043a\u0435\u0442\u0443","elClass":"btn btn-success"}}]}}]}},{"type":"fixedContainer","params":{"fixedClass":"state-form after-send-form","elementTitle":"\u041f\u043e\u0441\u043b\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043a\u0438","children":[{"type":"header","params":{"content":"\u041e\u0442\u0432\u0435\u0442 \u043f\u0440\u0438\u043d\u044f\u0442"}},{"type":"html","params":{"content":"\u0421\u043f\u0430\u0441\u0438\u0431\u043e, \u0412\u0430\u0448 \u043e\u0442\u0432\u0435\u0442 \u043d\u0430 \u0430\u043d\u043a\u0435\u0442\u0443 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d"}}]}},{"type":"fixedContainer","params":{"fixedClass":"state-form has-answer-form","elementTitle":"\u0423\u0436\u0435 \u0435\u0441\u0442\u044c \u043e\u0442\u0432\u0435\u0442","children":[{"type":"header","params":{"content":"\u041e\u0442\u0432\u0435\u0442 \u043f\u0440\u0438\u043d\u044f\u0442"}},{"type":"html","params":{"content":"\u0412\u0430\u0448 \u043e\u0442\u0432\u0435\u0442 \u043d\u0430 \u0430\u043d\u043a\u0435\u0442\u0443 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d"}}]}}]},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-outdent',
+			blockTag: 'form',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"states":{"before_send":"\u0424\u043e\u0440\u043c\u0430","after_send":"\u041f\u043e\u0441\u043b\u0435 \u043e\u0442\u0432\u0435\u0442\u0430","has_answer":"\u0423\u0436\u0435 \u0435\u0441\u0442\u044c \u043e\u0442\u0432\u0435\u0442"},"elementTitle":"\u0410\u043d\u043a\u0435\u0442\u0430","mainSettings":{"survey_id":{"label":"\u0412\u044b\u0431\u0440\u0430\u043d\u043d\u0430\u044f \u0430\u043d\u043a\u0435\u0442\u0430","type":"select","values_url":"\/user\/control\/survey\/modelsList"},"many_answers":{"label":"\u041a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437 \u043d\u043e\u0432\u044b\u0439 \u043e\u0442\u0432\u0435\u0442","type":"checkbox"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'surveyFieldsFormField',
+			group: "common",
+			jsName:	'xdget_surveyFieldsFormField',
+			label: 'Поля анкеты',
+			defaultParams: [],
+			allowedParentTypes: [],
+			iconClass: 'list-alt',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'countdown',
+			group: "common",
+			jsName:	'xdget_countdown',
+			label: 'Таймер',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-clock-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'video',
+			group: "common",
+			jsName:	'xdget_video',
+			label: 'Видео',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-video-camera',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'embed',
+			group: "blocks",
+			jsName:	'xdget_embed',
+			label: 'Встраиваемый виджет',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: false							,settings: {"mainParams":{"transparent_body":{"type":"checkbox","label":"\u041f\u0440\u043e\u0437\u0440\u0430\u0447\u043d\u044b\u0439 \u0444\u043e\u043d"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'insertEmbed',
+			group: "blocks",
+			jsName:	'xdget_insertEmbed',
+			label: 'Container',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: false					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'lessonList',
+			group: "system",
+			jsName:	'xdget_lessonList',
+			label: 'Список уроков',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'chooseVariant',
+			group: "blocks",
+			jsName:	'xdget_chooseVariant',
+			label: 'Выбор варианта',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-star-half-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'variant',
+			group: "own",
+			jsName:	'xdget_variant',
+			label: 'Вариант',
+			defaultParams: [],
+			allowedParentTypes: ["chooseVariant"],
+			iconClass: 'fa fa-star-half',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'accountLogo',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Логотип аккаунта',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-flag',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'vkFeed',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Комментарии ВКонтакте',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"mainSettings":{"feedId":{"type":"string","label":"apiId"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'uptolike',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Uptolike',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"mainSettings":{"apiId":{"type":"string","label":"apiId"},"buttonsString":{"type":"string","label":"buttonsString"},"shareSize":{"type":"string","label":"shareSize","placeholder":40},"shareShape":{"type":"string","label":"shareShape","placeholder":"round"},"shareCounterType":{"type":"string","label":"data-share-counter-type","placeholder":"disable"},"excludeShowMore":{"type":"string","label":"data-exclude-show-more","placeholder":"false"},"counterBackgroundColor":{"type":"string","label":"data-counter-background-color","placeholder":"#ffffff"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'blogPostLinksList',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Ссылки на записи блога',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"mainParams":{"link_count":{"type":"numeric","label":"\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0437\u0430\u043f\u0438\u0441\u0435\u0439"},"type":{"type":"select","label":"\u041a\u0430\u043a\u0438\u0435 \u0437\u0430\u043f\u0438\u0441\u0438","values":{"last":"\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435","first":"\u041f\u0435\u0440\u0432\u044b\u0435","previous":"\u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0435","next":"\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435","similar":"\u041f\u043e\u0445\u043e\u0436\u0438\u0435"}},"post_type":{"type":"select","label":"\u0422\u0438\u043f \u0437\u0430\u043f\u0438\u0441\u0435\u0439","values":{"":"\u0412\u0441\u0435","simple":"\u041f\u043e\u0441\u0442\u044b","photo":"\u041a\u0430\u0440\u0442\u0438\u043d\u043a\u0438"}},"show_image":{"type":"select","label":"\u041f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0443","values":{"":"\u043d\u0435 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c","prepend":"\u043f\u0435\u0440\u0435\u0434 \u0437\u0430\u0433\u043e\u043b\u043e\u0432\u043a\u043e\u043c","append":"\u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u0433\u043e\u043b\u043e\u0432\u043a\u0430"}},"show_date":{"type":"checkbox","label":"\u041f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u0434\u0430\u0442\u0443"},"show_annotate":{"type":"checkbox","label":"\u0412\u044b\u0432\u043e\u0434\u0438\u0442\u044c \u0430\u043d\u043d\u043e\u0442\u0430\u0446\u0438\u044e"},"image_width":{"type":"numeric","label":"\u0428\u0438\u0440\u0438\u043d\u0430 \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0438"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'userCompleteForm',
+			group: "form",
+			jsName:	'xdget_userForm',
+			label: 'Форма дозаполнения информации о пользователе',
+			defaultParams: {"elClass":"standard-form","children":[{"type":"header","params":{"content":"\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435, :first_name","size":"h3"}},{"type":"html","params":{"content":"\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u0441\u0435\u0431\u0435","size":"h3"}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"first_name","fieldOptions":{"label":"\u0418\u043c\u044f","required":false,"hide_filled":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448e \u0438\u043c\u044f"}}}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"last_name","fieldOptions":{"label":"\u0424\u0430\u043c\u0438\u043b\u0438\u044f","required":false,"hide_filled":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448\u0443 \u0444\u0430\u043c\u0438\u043b\u0438\u044e"}}}},{"type":"userFormField","params":{"fieldType":"phone","fieldName":"phone","fieldOptions":{"label":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d","required":false,"hide_filled":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u0442\u0435\u043b\u0435\u0444\u043e\u043d"}}}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"country","fieldOptions":{"label":"\u0421\u0442\u0440\u0430\u043d\u0430","required":false,"hide_filled":true,"settings":{"placeholder":"\u0423\u043a\u0430\u0436\u0438\u0442\u0435 \u0432\u0430\u0448\u0443 \u0441\u0442\u0440\u0430\u043d\u0443 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u0438\u044f"}}}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"city","fieldOptions":{"label":"\u0413\u043e\u0440\u043e\u0434","required":false,"hide_filled":true,"settings":{"placeholder":"\u0423\u043a\u0430\u0436\u0438\u0442\u0435 \u0432\u0430\u0448 \u0433\u043e\u0440\u043e\u0434"}}}},{"type":"userFormField","params":{"fieldType":"date","fieldName":"birthday","fieldOptions":{"label":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f","required":false,"hide_filled":true,"settings":{"placeholder":"\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f","startDate":"01.01.1940","endDate":"05.07.2021","defaultViewDate":"05.07.2021"}}}},{"type":"userFormField","params":{"fieldType":"file","fieldName":"profile_image","fieldOptions":{"label":"\u0410\u0432\u0430\u0442\u0430\u0440","required":false,"hide_filled":true,"settings":[]}}},{"type":"div","params":{"elClass":"form-buttons","children":[{"type":"button","params":{"content":"\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c","elClass":"btn btn-success"}}]}}]},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-newspaper-o',
+			blockTag: 'form',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"states":[],"mainSettings":{"hideIfAllFilled":{"type":"checkbox","label":"\u0421\u043a\u0440\u044b\u0432\u0430\u0442\u044c \u0444\u043e\u0440\u043c\u0443 \u0435\u0441\u043b\u0438 \u0432\u0441\u0435 \u043f\u043e\u043b\u044f \u0437\u0430\u043f\u043e\u043b\u043d\u0435\u043d\u044b"},"showOnlyOneField":{"type":"checkbox","label":"\u041f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u043f\u043e \u043e\u0434\u043d\u043e\u043c\u0443 \u043f\u043e\u043b\u044e"},"ifAllFilledRedirectTo":{"type":"string","label":"\u0410\u0434\u0440\u0435\u0441 \u0434\u043b\u044f \u043f\u0435\u0440\u0435\u0430\u0434\u0440\u0435\u0441\u0430\u0446\u0438\u0438 \u0435\u0441\u043b\u0438 \u0432\u0441\u0435 \u043f\u043e\u043b\u044f \u0437\u0430\u043f\u043e\u043b\u043d\u0435\u043d\u044b"}},"confirmAvailable":true,"elementTitle":"\u0424\u043e\u0440\u043c\u0430 \u0434\u043e\u0437\u0430\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043e\u043b\u0435\u0439"}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'page',
+			group: "blocks",
+			jsName:	'xdget_page',
+			label: 'Страница сайта',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: false					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'javascript',
+			group: "common",
+			jsName:	'xdget_javascript',
+			label: 'Javascript',
+			defaultParams: {"scriptContent":"\/\/ script code"},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-jsfiddle',
+			blockTag: 'script',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"mainSettings":{"scriptName":{"type":"string","label":"\u041e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u0441\u043a\u0440\u0438\u043f\u0442\u0430"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'userProfileLink',
+			group: "Профиль",
+			jsName:	'xdget_standard',
+			label: 'Ссылка на профиль текущего пользователя',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'userProfileBalance',
+			group: "Профиль",
+			jsName:	'xdget_standard',
+			label: 'Баланс текущего пользователя',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'blogPostPhotoOneClick',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Добавление работы в один клик',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"mainParams":{"tags":{"type":"string","label":"\u0422\u0435\u0433\u0438 \u043a \u0440\u0430\u0431\u043e\u0442\u0435"},"buttonText":{"type":"string","label":"\u0422\u0435\u043a\u0441\u0442 \u043d\u0430 \u043a\u043d\u043e\u043f\u043a\u0435 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432"},"reloadAfterCreate":{"type":"checkbox","label":"\u041f\u0435\u0440\u0435\u0437\u0430\u0433\u0440\u0443\u0436\u0430\u0442\u044c \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'instagramLink',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Связать инстаграм',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"mainParams":{"linkText":{"type":"string","label":"\u0422\u0435\u043a\u0441\u0442 \u0434\u043b\u044f \u043f\u0440\u0438\u0432\u044f\u0437\u043a\u0438"},"unlinkText":{"type":"string","label":"\u0422\u0435\u043a\u0441\u0442 \u0434\u043b\u044f \u043e\u0442\u0432\u044f\u0437\u043a\u0438"},"userText":{"type":"string","label":"\u0422\u0435\u043a\u0441\u0442 \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0433\u043e \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f, \u0435\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 {{link}}, {{name}}"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'becomePartnerForm',
+			group: "form",
+			jsName:	'xdget_userForm',
+			label: 'Стать партнером',
+			defaultParams: {"state":"not-partner","elClass":"standard-form","children":[{"type":"fixedContainer","params":{"elementTitle":"\u0424\u043e\u0440\u043c\u0430","fixedClass":"state-form not-partner-form","children":[{"type":"header","params":{"content":"\u0421\u0442\u0430\u0442\u044c \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u043e\u043c","size":"h2"}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"email","fieldOptions":{"label":"\u042d\u043b. \u0430\u0434\u0440\u0435\u0441","hide_filled":true,"required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441"}}}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"full_name","fieldOptions":{"label":"\u0424\u0418\u041e","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448\u0435 \u0438\u043c\u044f \u0438 \u0444\u0430\u043c\u0438\u043b\u0438\u044e"}}}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"comment","fieldOptions":{"label":"\u041a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a \u0437\u0430\u044f\u0432\u043a\u0435","hide_filled":true,"required":false,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a \u0432\u0430\u0448\u0435\u0439 \u0437\u0430\u044f\u0432\u043a\u0435"}}}},{"type":"div","params":{"elClass":"form-buttons","children":[{"type":"button","params":{"content":"\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u0430\u043d\u043a\u0435\u0442\u0443","elClass":"btn btn-success"}}]}}]}},{"type":"fixedContainer","params":{"fixedClass":"state-form not-approved-form","elementTitle":"\u0415\u0449\u0435 \u043d\u0435 \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d","children":[{"type":"header","params":{"content":"\u0417\u0430\u044f\u0432\u043a\u0430 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0430"}},{"type":"html","params":{"content":"\u0412\u0430\u0448\u0430 \u0437\u0430\u044f\u0432\u043a\u0430 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0430. \u041f\u043e\u0441\u043b\u0435 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0438 \u0435\u0451 \u043c\u043e\u0434\u0435\u0440\u0430\u0442\u043e\u0440\u043e\u043c \u0412\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0435"}},{"type":"partnerStatus"}]}},{"type":"fixedContainer","params":{"fixedClass":"state-form is-partner-form","elementTitle":"\u0423\u0436\u0435 \u0435\u0441\u0442\u044c \u043e\u0442\u0432\u0435\u0442","children":[{"type":"header","params":{"content":"\u041f\u0430\u0440\u0442\u043d\u0435\u0440"}},{"type":"html","params":{"content":"\u0412\u044b \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u0442\u0435\u0442\u0435 \u0432 \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u0441\u043a\u043e\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0435"}},{"type":"partnerStatus"}]}}]},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-list-alt',
+			blockTag: 'form',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"states":{"not-partner":"\u0424\u043e\u0440\u043c\u0430","not-approved":"\u0417\u0430\u044f\u0432\u043a\u0430 \u043d\u0435 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0430","is-partner":"\u042f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u043e\u043c"},"label":"\u0424\u043e\u0440\u043c\u0430 \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u0441\u043a\u043e\u0439 \u0437\u0430\u044f\u0432\u043a\u0438","mainParams":{"auto_approve":{"type":"checkbox","label":"\u041f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0430\u0442\u044c \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438"},"authless":{"label":"\u041d\u0435 \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u0430\u0446\u0438\u0438","type":"checkbox"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'telegram-login',
+			group: "form",
+			jsName:	'xdget_standard',
+			label: 'Кнопка входа через телеграм',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-telegram',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'partnerStatus',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Статус партнера',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'productStream',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Поток',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"mainParams":{"stream_id":{"type":"select_object","label":"\u041f\u043e\u0442\u043e\u043a","context":"StreamContext"},"product_id":{"type":"select_object","label":"\u041f\u0440\u043e\u0434\u0443\u043a\u0442","context":"ProductContext"},"custom_html":{"type":"text","label":"HTML","context":"ProductContext","defaultValue":"{{period_str2}}"},"custom_html_no_stream":{"type":"text","label":"\u0427\u0442\u043e \u0432\u044b\u0432\u043e\u0434\u0438\u0442\u044c \u043f\u0440\u0438 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0438 \u043f\u043e\u0442\u043e\u043a\u0430","context":"ProductContext"},"show_all_locations":{"type":"checkbox","label":"\u043e\u0442\u043e\u0431\u0440\u0430\u0436\u0430\u0442\u044c \u043f\u043e\u0442\u043e\u043a\u0438 \u0441 \u0440\u0430\u0437\u043d\u044b\u043c\u0438 \u043c\u0435\u0441\u0442\u0430\u043c\u0438"},"fix_location":{"type":"select","label":"\u0437\u0430\u043a\u0440\u0435\u043f\u0438\u0442\u044c \u043b\u043e\u043a\u0430\u0446\u0438\u044e","values":[],"notShowEmpty":false,"emptyLabel":"-- \u043d\u0435 \u0432\u044b\u0431\u0440\u0430\u043d\u043e --"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'full_redirect',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Редирект',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"mainParams":{"returnUrl":{"type":"string","label":"\u0410\u0434\u0440\u0435\u0441"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'location_selector',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Выбор географической области',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'offerCost',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Стоимость предложения',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"mainParams":{"offerId":{"type":"select_object","label":"\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435","context":"OfferContext","linkEdit":"\/pl\/sales\/offer\/update?id="},"currencyId":{"type":"select","label":"\u0412\u0430\u043b\u044e\u0442\u0430","not_multiple":true,"values":{"1":"RUB","2":"USD","3":"EUR","4":"GBP","5":"BYR","6":"KZT","7":"UAH","8":"BYN","9":"AUD","10":"DKK","11":"SEK","12":"ZAR","13":"AMD","14":"RON","15":"BRL","16":"CHF","17":"ILS","18":"SGD","19":"MYR","20":"CAD","21":"KGS","22":"JPY","23":"MXN","24":"UZS","25":"PLN","26":"AZN","27":"AED","28":"TRY","29":"INR","30":"RSD","31":"CZK","32":"MNT","33":"NZD","34":"BGN","35":"IDR","71":"CNY","72":"GEL","76":"COP","77":"ARS","78":"PEN","79":"CLP","125":"VND","126":"PHP","127":"DOP","135":"KRW","138":"TWD","181":"MDL","185":"TJS","188":"NOK","199":"NGN","202":"HKD","206":"BCN"}}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'reload',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Перезагрузка страницы',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-refresh',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'surveyAnswerList',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Список ответов на анкету',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"elementTitle":"\u0421\u043f\u0438\u0441\u043e\u043a \u043e\u0442\u0432\u0435\u0442\u043e\u0432 \u043d\u0430 \u0430\u043d\u043a\u0435\u0442\u0443","mainSettings":{"survey_id":{"label":"\u0412\u044b\u0431\u0440\u0430\u043d\u043d\u0430\u044f \u0430\u043d\u043a\u0435\u0442\u0430","type":"select","values_url":"\/user\/control\/survey\/modelsList"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'shareLinks',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Кнопки Поделиться',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"mainSettings":{"text":{"type":"string","label":"\u0422\u0435\u043a\u0441\u0442 \u043f\u0435\u0440\u0435\u0434 \u043a\u043d\u043e\u043f\u043a\u0430\u043c\u0438"},"btnSize":{"type":"select","values":{"":"\u041e\u0431\u044b\u0447\u043d\u044b\u0439","sm":"\u041c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0439","xs":"\u041e\u0447\u0435\u043d\u044c \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0439"},"label":"\u0420\u0430\u0437\u043c\u0435\u0440 \u043a\u043d\u043e\u043f\u043e\u043a"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'globalCommentTree',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Глобальные комментарии',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"mainParams":{"entityId":{"label":"\u0413\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440 \u043b\u0435\u043d\u0442\u044b","type":"numeric"},"asChat":{"label":"\u041a\u0430\u043a \u0447\u0430\u0442","type":"checkbox"},"notify":{"label":"\u0423\u0432\u0435\u0434\u043e\u043c\u043b\u044f\u0442\u044c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439","type":"checkbox"},"teacherTree":{"label":"\u041f\u0438\u0441\u0430\u0442\u044c \u043c\u043e\u0436\u0435\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c","type":"checkbox"},"group":{"label":"\u041d\u043e\u043c\u0435\u0440 \u043b\u0435\u043d\u0442\u044b","type":"numeric"},"convertCommentToPost":{"label":"\u041f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0442\u044c \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0438 \u0441 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f\u043c\u0438 \u0432 \u043f\u043e\u0441\u0442\u044b","type":"checkbox"},"enableLiveUpdatePauseButton":{"label":"\u0412\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u043a\u043d\u043e\u043f\u043a\u0443 \u043f\u0430\u0443\u0437\u044b","type":"checkbox"},"enableFloatImages":{"label":"\u0412\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u043f\u043b\u0430\u0432\u0430\u044e\u0449\u0438\u0435 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f","type":"checkbox"},"disableLinks":{"label":"\u0417\u0430\u043f\u0440\u0435\u0442\u0438\u0442\u044c \u0432\u0441\u0442\u0430\u0432\u043a\u0443 \u0441\u0441\u044b\u043b\u043e\u043a","type":"checkbox"}},"isAutoContainer":false,"mainSettings":{"disableComments":{"type":"checkbox","label":"\u041e\u0442\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u0435"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'dynamicContainer',
+			group: "blocks",
+			jsName:	'xdget_dynamicContainer',
+			label: 'Динамический контейнер',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-refresh',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"mainParams":{"need_refresh":{"type":"checkbox","label":"\u041e\u043f\u043e\u0432\u0435\u0441\u0442\u0438\u0442\u044c \u0432\u0441\u0435\u0445"},"need_hide":{"type":"checkbox","label":"\u0421\u043a\u0440\u044b\u0432\u0430\u0442\u044c"},"additional_class":{"type":"string","label":"\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u043b\u0430\u0441\u0441"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'userGoal',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Достижение цели пользователем',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"mainParams":{"goal_id":{"type":"select","label":"\u0426\u0435\u043b\u044c","not_multiple":true,"values_url":"\/pl\/teach\/goal\/models-list"},"count_prefix_text":{"type":"string","label":"\u0422\u0435\u043a\u0441\u0442 \u043f\u0435\u0440\u0435\u0434 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e\u043c"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'userScaleRating',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Рейтинг пользователя по шкале достижений',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true							,settings: {"mainParams":{"scale_id":{"type":"select","label":"\u0428\u043a\u0430\u043b\u0430 \u0434\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u0439","not_multiple":true,"values_url":"\/pl\/user\/scale\/models-list"}}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'lessonCurrentUserEmail',
+			group: "system",
+			jsName:	'xdget_standard',
+			label: 'Email ученика и учителя',
+			defaultParams: [],
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: true					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'contactSystemPage',
+			group: "blocks",
+			jsName:	'xdget_systemPage',
+			label: 'Substitution',
+			defaultParams: {"hideLeftMenu":false,"children":[{"type":"area","params":{"areaName":"PAGE","children":[{"xdgetId":99944,"type":"contactForm","params":{"elClass":"standard-form container-center","state":"before_send","children":[{"type":"fixedContainer","params":{"elementTitle":"\u0424\u043e\u0440\u043c\u0430","fixedClass":"state-form before-send-form","children":[{"type":"header","params":{"content":"\u041e\u0431\u0440\u0430\u0442\u043d\u0430\u044f \u0441\u0432\u044f\u0437\u044c","size":"h2"}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"email","fieldOptions":{"label":"\u0412\u0430\u0448 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441","hide_filled":true,"required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043c\u044b \u043f\u0440\u0438\u0448\u043b\u0435\u043c \u043e\u0442\u0432\u0435\u0442"}}}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"full_name","fieldOptions":{"label":"\u0412\u0430\u0448\u0435 \u0438\u043c\u044f","hide_filled":true,"required":false,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448\u0435 \u0438\u043c\u044f"}}}},{"type":"userFormField","params":{"fieldType":"text","fieldName":"text","fieldOptions":{"label":"\u0422\u0435\u043a\u0441\u0442 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f","required":true,"settings":{"placeholder":"\u041e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u0441\u0432\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438","rows":7}}}},{"type":"div","params":{"elClass":"form-buttons","children":[{"type":"button","params":{"content":"\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435","elClass":"btn btn-success"}}]}}]}},{"type":"fixedContainer","params":{"elementTitle":"\u041f\u043e\u0441\u043b\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043a\u0438","fixedClass":"state-form after-send-form","children":[{"type":"header","params":{"content":"\u0421\u043f\u0430\u0441\u0438\u0431\u043e","size":"h2"}},{"type":"html","params":{"content":"\u0412\u0430\u0448\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043e"}}]}}]}}]}}]},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: false							,settings: {"mainParams":{"header_tags":{"type":"text","label":"\u0422\u0435\u0433\u0438 \u0434\u043b\u044f \u0431\u043b\u043e\u043a\u0430 HEAD"}},"restore":{"isAvailable":false,"lastDate":null}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'loginSystemPage',
+			group: "blocks",
+			jsName:	'xdget_systemPage',
+			label: 'Substitution',
+			defaultParams: {"hideLeftMenu":false,"children":[{"type":"area","params":{"areaName":"PAGE","children":[{"xdgetId":99945,"type":"loginUserForm","params":{"elClass":"standard-form container-center","default_state":"login","state":"register","children":[{"type":"fixedContainer","params":{"elementTitle":"\u0411\u043b\u043e\u043a \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u0430\u0446\u0438\u0438","fixedClass":"login-form state-form","children":[{"type":"tag","params":{"content":"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f","size":"h4","elClass":"btn btn-link pull-right","fixedClass":"btn-register"}},{"type":"header","params":{"content":"\u0412\u043e\u0439\u0442\u0438","size":"h2"}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"email","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441"}}}},{"type":"userFormField","params":{"fieldType":"password","fieldName":"password","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u0430\u0440\u043e\u043b\u044c"}}}},{"type":"row","params":{"elClass":"form-buttons","float_width":true,"children":[{"type":"button","params":{"content":"\u0412\u043e\u0439\u0442\u0438","elClass":"btn btn-success"}},{"type":"button","params":{"content":"\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u043f\u0430\u0440\u043e\u043b\u044c","elClass":"btn btn-link","fixedClass":"btn-remind"}},{"type":"socialUserFormField","params":{"elClass":"pull-right","button_type":"icons","label":""}}]}}]}},{"type":"fixedContainer","params":{"elementTitle":"\u0411\u043b\u043e\u043a \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438","fixedClass":"register-form state-form","children":[{"type":"button","params":{"content":"\u0412\u0445\u043e\u0434","elClass":"btn btn-link pull-right","fixedClass":"btn-login"}},{"type":"header","params":{"content":"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f","size":"h2"}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"email","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441"}}}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"full_name","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448\u0435 \u0438\u043c\u044f \u0438 \u0444\u0430\u043c\u0438\u043b\u0438\u044e"}}}},{"type":"row","params":{"elClass":"form-buttons","children":[{"type":"container","params":{"children":[{"type":"button","params":{"content":"\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f","elClass":"btn btn-success"}}]}},{"type":"container","params":{"children":[{"type":"socialUserFormField","params":{"elClass":"text-right"}}]}}]}}]}},{"type":"fixedContainer","params":{"elementTitle":"\u0411\u043b\u043e\u043a \u0434\u043b\u044f \u0443\u0436\u0435 \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e","fixedClass":"logined-form state-form","children":[{"type":"header","params":{"content":"\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435, :first_name","size":"h2"}},{"type":"html","params":{"content":"\u0412\u044b \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u043e\u0432\u0430\u043d\u044b \u0432 \u044d\u0442\u043e\u043c \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0435<BR><BR>"}},{"type":"div","params":{"elClass":"form-buttons","children":[{"type":"button","params":{"content":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u0432 \u0430\u043a\u043a\u0430\u0443\u043d\u0442","fixedClass":"btn-enter","elClass":"btn btn-primary"}},{"type":"button","params":{"content":"\u0421\u043c\u0435\u043d\u0438\u0442\u044c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f","fixedClass":"btn-logout","elClass":"btn btn-link pull-right"}}]}}]}}],"redirect_url":"\/cms\/system\/start?afterLogin=true"}},{"type":"container","params":{"elClass":"text-center","children":[{"type":"telegram-login","style":{"margin-top":"20","text-align":"center"}},{"type":"html","params":{"content":"<a href=\"\/cms\/system\/contact\">\u041e\u0431\u0440\u0430\u0442\u043d\u0430\u044f \u0441\u0432\u044f\u0437\u044c<\/a>"},"style":{"padding-top":"20","text-align":"center"}}]}}]}}]},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: false							,settings: {"mainParams":{"header_tags":{"type":"text","label":"\u0422\u0435\u0433\u0438 \u0434\u043b\u044f \u0431\u043b\u043e\u043a\u0430 HEAD"}},"restore":{"isAvailable":false,"lastDate":1770975412}}					}
+	) } );
+</script>
+
+<script>
+	$( function() { window.xdgetRepository.registerXdget({
+			type: 'legalSystemPage',
+			group: "blocks",
+			jsName:	'xdget_systemPage',
+			label: 'Substitution',
+			defaultParams: {"hideLeftMenu":false,"children":[{"type":"area","params":{"areaName":"PAGE","children":[{"type":"container","params":{"children":[{"type":"header","params":{"content":"\u0421\u043e\u0433\u043b\u0430\u0441\u0438\u0435 \u043d\u0430 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0443 \u0434\u0430\u043d\u043d\u044b\u0445","size":"h1"},"style":{"margin-top":0}},{"type":"html","params":{"content":"<p>\u0422\u0435\u043a\u0441\u0442 \u043f\u0440\u043e \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0443 \u0434\u0430\u043d\u043d\u044b\u0445<\/p>"}}]}}]}}]},
+			allowedParentTypes: true,
+			iconClass: 'fa fa-circle-o',
+			blockTag: 'div',
+			selfBlock: true,
+			selfMeaningful: false							,settings: {"mainParams":{"header_tags":{"type":"text","label":"\u0422\u0435\u0433\u0438 \u0434\u043b\u044f \u0431\u043b\u043e\u043a\u0430 HEAD"}},"restore":{"isAvailable":false,"lastDate":null}}					}
+	) } );
+</script>
+
+	
+	<div class="xdget-root">
+			<div class="xdget-block xdget-contactSystemPage xdget-common-container		"
+		id="xdget240405"
+			data-xdget-id="240405"
+	
+	>
+	<div class='page-full-block'>
+	
+	<div class="xdget-block xdget-area xdget-common-container area-PAGE xdget-col		"
+		id="xdget403260"
+			data-xdget-id="403260"
+	
+	>
+	
+
+			
+	
+	<form class="xdget-block xdget-contactForm standard-form container-center xdget-common-container xdget-common-user-form state-before_send		"
+		id="xdget99944"
+			data-xdget-id="99944"
+	
+	>
+	
+
+			
+	
+	<div class="xdget-block xdget-fixedContainer state-form before-send-form xdget-common-container		"
+		id="xdget478578"
+			data-xdget-id="478578"
+	
+	>
+	
+
+			
+	
+	<h2 class="xdget-block xdget-header		"
+		id="xdget321981"
+			data-xdget-id="321981"
+	
+	>
+	
+Обратная связь	</h2>
+
+				
+	
+	<div class="xdget-block xdget-userFormField xdget-formField		"
+		id="xdget526171"
+			data-xdget-id="526171"
+	
+	>
+		</div>
+
+				
+	
+	<div class="xdget-block xdget-userFormField xdget-formField		"
+		id="xdget710844"
+			data-xdget-id="710844"
+	
+	>
+		</div>
+
+				
+	
+	<div class="xdget-block xdget-userFormField xdget-formField		"
+		id="xdget495260"
+			data-xdget-id="495260"
+	
+	>
+		</div>
+
+				
+	
+	<div class="xdget-block xdget-div form-buttons xdget-common-container div		"
+		id="xdget281851"
+			data-xdget-id="281851"
+	
+	>
+	
+
+			
+	
+	<button class="xdget-block xdget-button btn btn-success		"
+		id="xdget104347"
+			data-xdget-id="104347"
+	
+	>
+	
+Отправить сообщение	</button>
+
+		</div>
+
+		</div>
+
+				
+	
+	<div class="xdget-block xdget-fixedContainer state-form after-send-form xdget-common-container		"
+		id="xdget541233"
+			data-xdget-id="541233"
+	
+	>
+	
+
+			
+	
+	<h2 class="xdget-block xdget-header		"
+		id="xdget985981"
+			data-xdget-id="985981"
+	
+	>
+	
+Спасибо	</h2>
+
+				
+	
+	<div class="xdget-block xdget-html		"
+		id="xdget629618"
+			data-xdget-id="629618"
+	
+	>
+	
+<div class="html-content">Ваше сообщение отправлено</div>	</div>
+
+		</div>
+
+		</form>
+
+		</div>
+
+</div>	</div>
+
+	</div>
+
+            		</div>
+	</div>
+
+
+<div class="notice-widget" id="noticeWidget"></div>
+<script>
+	$( function() {
+		if ($('#noticeWidget')?.noticeWidget) {
+			$('#noticeWidget').noticeWidget();
+
+					}
+	} );
+</script>
+
+<div class="cookies-notification ">
+	<div class="cookies-notification__content">
+		<div class="cookies-notification__content__text">
+							Мы используем cookie-файлы. Это нужно для лучшей работы сайта. Продолжая пользоваться сайтом, вы соглашаетесь с этим.								</div>
+		<div class="cookies-notification__actions">
+			<button class="cookies-notification__actions__button js__accept_cookies_policy">
+				Ok			</button>
+		</div>
+	</div>
+</div>
+<script>
+(function () {
+	const buttonSelector = '.js__accept_cookies_policy';
+
+	const hideBannerJq = function () {
+		if (!window.jQuery) {
+			return;
+		}
+		window.jQuery('.cookies-notification').fadeOut(500, function () {
+			window.jQuery(this).remove();
+		});
+	};
+
+	const hideBannerNative = function () {
+		const banner = document.querySelector('.cookies-notification');
+		if (!banner) {
+			return;
+		}
+		banner.style.transition = 'opacity 0.5s ease';
+		banner.style.opacity = '0';
+		window.setTimeout(function () {
+			if (banner.parentNode) {
+				banner.parentNode.removeChild(banner);
+			}
+		}, 500);
+	};
+
+	const getPostData = function () {
+		const csrfParamMeta = document.querySelector('meta[name="csrf-param"]');
+		const csrfTokenMeta = document.querySelector('meta[name="csrf-token"]');
+		const csrfParam = csrfParamMeta ? csrfParamMeta.getAttribute('content') : null;
+		const csrfToken = csrfTokenMeta ? csrfTokenMeta.getAttribute('content') : null;
+
+		const postData = {accept: '1'};
+		if (csrfParam && csrfToken) {
+			postData[csrfParam] = csrfToken;
+		}
+
+		return postData;
+	};
+
+	const acceptCookies = function () {
+		if (window.jQuery && window.jQuery.post) {
+			window.jQuery.post('/pl/saas/accept-policy', getPostData())
+				.then(function (data) {
+					if (data && data.success) {
+						hideBannerJq();
+					}
+				}, function () {});
+			return;
+		}
+
+		const body = new URLSearchParams(getPostData());
+		fetch('/pl/saas/accept-policy', {
+			method: 'POST',
+			credentials: 'same-origin',
+			headers: {
+				'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+				'X-Requested-With': 'XMLHttpRequest'
+			},
+			body: body.toString()
+		})
+			.then(function (response) {
+				return response.json();
+			})
+			.then(function (data) {
+				if (data && data.success) {
+					hideBannerNative();
+				}
+			})
+			.catch(function () {});
+	};
+
+	document.addEventListener('click', function (e) {
+		const button = e.target && e.target.closest ? e.target.closest(buttonSelector) : null;
+		if (!button) {
+			return;
+		}
+
+		if (button.dataset.gcCookiesAccept === '1') {
+			return;
+		}
+		button.dataset.gcCookiesAccept = '1';
+
+		acceptCookies();
+	});
+})();
+</script>
+<style>
+	.cookies-notification,
+	.cookies-notification__content__link,
+	.cookies-notification__content__link:hover {
+		font-size: 14px;
+		font-family: "ALS Granate VF", sans-serif;
+		font-weight: 400;
+		line-height: 146%;
+        font-style: normal;
+	}
+	.cookies-notification {
+		color: #000000;
+	}
+	.cookies-notification__content__link{
+		color: #00b881;
+		text-decoration: none;
+        font-style: normal;
+	}
+	.cookies-notification__content__link:hover {
+		color: #00a674;
+		text-decoration: none;
+        font-style: normal;
+	}
+	.cookies-notification {
+		position: fixed;
+		bottom: 75px;
+		left: 15px;
+		right: 15px;
+		width: calc(100% - 30px);
+		border-radius: 16px;
+		padding: 16px;
+		background-color: white;
+		z-index: 999999999999999999;
+		box-shadow: 0px 0px 27px 0px #0E232624;
+        box-sizing: border-box;
+	}
+
+	.cookies-notification.in_process {
+		opacity: .8;
+	}
+
+	.gc-redesigned .cookies-notification {
+		width: calc(100% - 60px);
+	}
+
+	.cookies-notification__content {
+		display: flex;
+		flex-direction: column;
+		gap: 12px;
+	}
+
+	.cookies-notification__actions__button {
+		padding: 0px 16px;
+		background: #0FF3AF;
+		border-radius: 24px;
+		font-style: normal;
+		font-weight: 700;
+		font-size: 16px;
+		line-height: 32px;
+		leading-trim: both;
+		text-edge: cap;
+		letter-spacing: 0.05em;
+		text-transform: uppercase;
+		color: #000000;
+		border: none;
+	}
+	.cookies-notification__actions__button:hover {
+		background:#18D297FF;
+	}
+
+	@media screen and (min-width: 769px) {
+		.cookies-notification,
+		.cookies-notification__content__link,
+		.cookies-notification__content__link:hover {
+			font-size: 16px;
+		}
+		.cookies-notification {
+			padding: 22px;
+			width: calc(100% - 60px);
+			left: 50%;
+			transform: translateX(-50%);
+			bottom: 50px;
+			max-width: 900px;
+			line-height: 146%;
+		}
+		.with-left-menu .cookies-notification,
+		.with_left_menu.cookies-notification {
+			width: calc(100% - 108px);
+			left: calc(50% + 36px);
+			transform: translateX(-50%);
+		}
+
+		.gc-redesigned .cookies-notification {
+			width: calc(100% - 144px);
+		}
+	}
+
+	.cookies-notification__actions__button {
+		cursor: pointer;
+	}
+</style>
+	</div>
+</div>
+
+
+	<script src="/public/js/gccounter-new.js?1"></script>
+
+
+														<script>
+        if (window.chrome && window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+            window.location.reload();
+        }
+		$( function() {
+			$( '[data-xdget-id="240405"]').xdget_systemPage({
+				xdgetId: "240405",
+				type: "contactSystemPage",
+				name: "xdget_systemPage",
+				params: {"children":[],"name":"system_contact","defaultTitle":"\u041e\u0431\u0440\u0430\u0442\u043d\u0430\u044f \u0441\u0432\u044f\u0437\u044c","parentId":null,"css":"\n.gc-account-logo { text-align: center }"},
+								label: "Substitution",
+				editorEnabled: false,
+				isRoot: true,
+				jsName: "xdget_systemPage",
+				selfBlock: "true"
+								, settings: {"mainParams":{"header_tags":{"type":"text","label":"\u0422\u0435\u0433\u0438 \u0434\u043b\u044f \u0431\u043b\u043e\u043a\u0430 HEAD"}},"restore":{"isAvailable":false,"lastDate":null}}							})
+		});
+	</script>
+		<script>
+        if (window.chrome && window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+            window.location.reload();
+        }
+		$( function() {
+			$( '[data-xdget-id="403260"]').xdget_area({
+				xdgetId: "403260",
+				type: "area",
+				name: "xdget_area",
+				params: {"children":[],"areaName":"PAGE","inherited":false,"autoCreated":false,"canBeInherited":false},
+								label: "Area",
+				editorEnabled: false,
+				isRoot: false,
+				jsName: "xdget_area",
+				selfBlock: "true"
+							})
+		});
+	</script>
+		<script>
+        if (window.chrome && window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+            window.location.reload();
+        }
+		$( function() {
+			$( '[data-xdget-id="99944"]').xdget_userForm({
+				xdgetId: "99944",
+				type: "contactForm",
+				name: "xdget_userForm",
+				params: {"elClass":"standard-form container-center","children":[],"redirect_url":null,"group_id":null,"stage_id":0,"funnelFormId":null,"open_new_window":false,"default_state":null,"default_values":{"first_name":"","last_name":"","name":"","email":"","phone":"","city":"","country":"","birthday":"","profile_image":"","phone_confirmed":false,"phone_confirm_code":0},"metrika_submit_goal":null,"metrika_finish_goal":null,"metrika_register_goal":null,"redirect_not_authorized":false,"authorize_user_anyway":null,"state":"before_send"},
+								label: "Форма обратной связи",
+				editorEnabled: false,
+				isRoot: false,
+				jsName: "xdget_userForm",
+				selfBlock: "true"
+								, settings: {"states":{"before_send":"\u0424\u043e\u0440\u043c\u0430","after_send":"\u041f\u043e\u0441\u043b\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043a\u0438"},"elementTitle":"\u0424\u043e\u0440\u043c\u0430 \u043e\u0431\u0440\u0430\u0442\u043d\u043e\u0439 \u0441\u0432\u044f\u0437\u0438"}							})
+		});
+	</script>
+		<script>
+        if (window.chrome && window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+            window.location.reload();
+        }
+		$( function() {
+			$( '[data-xdget-id="478578"]').xdget_div({
+				xdgetId: "478578",
+				type: "fixedContainer",
+				name: "xdget_div",
+				params: {"fixedClass":"state-form before-send-form","elementTitle":"\u0424\u043e\u0440\u043c\u0430","children":[]},
+								label: "Fixed container",
+				editorEnabled: false,
+				isRoot: false,
+				jsName: "xdget_div",
+				selfBlock: "true"
+								, settings: {"elementTitle":"\u0424\u043e\u0440\u043c\u0430"}							})
+		});
+	</script>
+		<script>
+        if (window.chrome && window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+            window.location.reload();
+        }
+		$( function() {
+			$( '[data-xdget-id="321981"]').xdget_header({
+				xdgetId: "321981",
+				type: "header",
+				name: "xdget_header",
+				params: {"content":"\u041e\u0431\u0440\u0430\u0442\u043d\u0430\u044f \u0441\u0432\u044f\u0437\u044c","tag":null,"size":"h2","typograf":false},
+								label: "Заголовок",
+				editorEnabled: false,
+				isRoot: false,
+				jsName: "xdget_header",
+				selfBlock: "true"
+							})
+		});
+	</script>
+		<script>
+        if (window.chrome && window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+            window.location.reload();
+        }
+		$( function() {
+			$( '[data-xdget-id="526171"]').xdget_userFormField({
+				xdgetId: "526171",
+				type: "userFormField",
+				name: "xdget_userFormField",
+				params: {"fieldType":"string","fieldOptions":{"label":"\u0412\u0430\u0448 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441","hide_filled":true,"required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043c\u044b \u043f\u0440\u0438\u0448\u043b\u0435\u043c \u043e\u0442\u0432\u0435\u0442"}},"fieldName":"email"},
+								label: "Поле формы",
+				editorEnabled: false,
+				isRoot: false,
+				jsName: "xdget_userFormField",
+				selfBlock: "true"
+							})
+		});
+	</script>
+		<script>
+        if (window.chrome && window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+            window.location.reload();
+        }
+		$( function() {
+			$( '[data-xdget-id="710844"]').xdget_userFormField({
+				xdgetId: "710844",
+				type: "userFormField",
+				name: "xdget_userFormField",
+				params: {"fieldType":"string","fieldOptions":{"label":"\u0412\u0430\u0448\u0435 \u0438\u043c\u044f","hide_filled":true,"required":false,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448\u0435 \u0438\u043c\u044f"}},"fieldName":"full_name"},
+								label: "Поле формы",
+				editorEnabled: false,
+				isRoot: false,
+				jsName: "xdget_userFormField",
+				selfBlock: "true"
+							})
+		});
+	</script>
+		<script>
+        if (window.chrome && window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+            window.location.reload();
+        }
+		$( function() {
+			$( '[data-xdget-id="495260"]').xdget_userFormField({
+				xdgetId: "495260",
+				type: "userFormField",
+				name: "xdget_userFormField",
+				params: {"fieldType":"text","fieldOptions":{"label":"\u0422\u0435\u043a\u0441\u0442 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f","required":true,"settings":{"placeholder":"\u041e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u0441\u0432\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438","rows":7}},"fieldName":"text"},
+								label: "Поле формы",
+				editorEnabled: false,
+				isRoot: false,
+				jsName: "xdget_userFormField",
+				selfBlock: "true"
+							})
+		});
+	</script>
+		<script>
+        if (window.chrome && window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+            window.location.reload();
+        }
+		$( function() {
+			$( '[data-xdget-id="281851"]').xdget_div({
+				xdgetId: "281851",
+				type: "div",
+				name: "xdget_div",
+				params: {"elClass":"form-buttons","children":[]},
+								label: "Контейнер",
+				editorEnabled: false,
+				isRoot: false,
+				jsName: "xdget_div",
+				selfBlock: "true"
+								, settings: {"mainParams":{"hide_with_children":{"type":"checkbox","label":"\u0421\u043a\u0440\u044b\u0432\u0430\u0442\u044c, \u0435\u0441\u043b\u0438 \u043d\u0435 \u0432\u0441\u0435 \u0434\u043e\u0447\u0435\u0440\u043d\u0438\u0435 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u044b \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442\u0441\u044f"}}}							})
+		});
+	</script>
+		<script>
+        if (window.chrome && window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+            window.location.reload();
+        }
+		$( function() {
+			$( '[data-xdget-id="104347"]').xdget_button({
+				xdgetId: "104347",
+				type: "button",
+				name: "xdget_button",
+				params: {"elClass":"btn btn-success","onClick":null,"content":"\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435","tag":null},
+								label: "Кнопка",
+				editorEnabled: false,
+				isRoot: false,
+				jsName: "xdget_button",
+				selfBlock: "true"
+							})
+		});
+	</script>
+		<script>
+        if (window.chrome && window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+            window.location.reload();
+        }
+		$( function() {
+			$( '[data-xdget-id="541233"]').xdget_div({
+				xdgetId: "541233",
+				type: "fixedContainer",
+				name: "xdget_div",
+				params: {"fixedClass":"state-form after-send-form","elementTitle":"\u041f\u043e\u0441\u043b\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043a\u0438","children":[]},
+								label: "Fixed container",
+				editorEnabled: false,
+				isRoot: false,
+				jsName: "xdget_div",
+				selfBlock: "true"
+								, settings: {"elementTitle":"\u041f\u043e\u0441\u043b\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043a\u0438"}							})
+		});
+	</script>
+		<script>
+        if (window.chrome && window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+            window.location.reload();
+        }
+		$( function() {
+			$( '[data-xdget-id="985981"]').xdget_header({
+				xdgetId: "985981",
+				type: "header",
+				name: "xdget_header",
+				params: {"content":"\u0421\u043f\u0430\u0441\u0438\u0431\u043e","tag":null,"size":"h2","typograf":false},
+								label: "Заголовок",
+				editorEnabled: false,
+				isRoot: false,
+				jsName: "xdget_header",
+				selfBlock: "true"
+							})
+		});
+	</script>
+		<script>
+        if (window.chrome && window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+            window.location.reload();
+        }
+		$( function() {
+			$( '[data-xdget-id="629618"]').xdget_html({
+				xdgetId: "629618",
+				type: "html",
+				name: "xdget_html",
+				params: {"content":"","wysiwyg_disabled":false,"typograf":false,"replace_variables":false,"fileList":{"files":[]}},
+								label: "HTML-блок",
+				editorEnabled: false,
+				isRoot: false,
+				jsName: "xdget_html",
+				selfBlock: "true"
+							})
+		});
+	</script>
+	
+
+<script>
+	$( function() {
+		$('.leftbar-toggler' ).click( function() {
+			$( '.leftbar' ).toggleClass( 'show-links' );
+		} );
+	});
+</script>
+
+
+
+<script async src="https://usmanovafit.gymteam.ru/chtm/s/metric/clarity.js"></script>
+	
+
+
+<script src="/nassets/js/xdget-view-ca11d7935d3a81ff8ae46dff68d943d7.js?v=1783178002"></script>
+<script src="/nassets/js/redactor-83938a38b0d8ee30e21a18eb34fe4e00.js?v=1783178002"></script>
+<script src="/nassets/ea450fdc/file_widget.js?v=1765633899"></script>
+<script src="/nassets/21b14ffb/abstract_field.js?v=1774347238"></script>
+<script src="/nassets/7bc22803/select.js?v=1765633899"></script>
+<script src="/nassets/2d15d0d2/multi_select.js?v=1780395911"></script>
+<script src="/nassets/7bc22803/text.js?v=1765633899"></script>
+<script src="/nassets/c3764e4b/string.js?v=1779966196"></script>
+<script src="/nassets/7bc22803/checkbox.js?v=1765633899"></script>
+<script src="/nassets/7bc22803/date.js?v=1765633899"></script>
+<script src="/nassets/21b14ffb/file.js?v=1774347238"></script>
+<script src="/nassets/7bc22803/password.js?v=1765633899"></script>
+<script src="/nassets/7bc22803/phone.js?v=1765633899"></script>
+<script src="/nassets/7bc22803/phone_confirm.js?v=1765633899"></script>
+<script src="/nassets/7bc22803/numeric.js?v=1765633899"></script>
+<script src="/nassets/a4fd5c80/auth.js?v=1765633901"></script>
+<script src="/nassets/40e57a39/js/blueimp-gallery.min.js?v=1765633899"></script>
+<script src="/nassets/40e57a39/js/jquery.blueimp-gallery.min.js?v=1765633899"></script>
+<script src="/nassets/40e57a39/js/blueimp-gallery-indicator.js?v=1765633899"></script>
+<script src="/nassets/d40f6009/js/localstore.js?v=1765633901"></script>
+<script src="/nassets/7bc22803/custom_form.js?v=1765633899"></script>
+<script src="/nassets/7992da16/jquery.plugin.min.js?v=1765633899"></script>
+<script src="/nassets/7992da16/jquery.countdown.min.js?v=1765633899"></script>
+<script src="/nassets/7992da16/jquery.countdown-en.js?v=1765633899"></script>
+<script src="/nassets/42c11533/jquery.countdown-ru-with-translate.js?v=1765633899"></script>
+<script src="/nassets/639a08f5/build/tasks-block.js?v=1765633899"></script>
+<script src="/nassets/9f614c7f/notice.js?v=1782116784"></script>
+<script src="/nassets/7717e45a/js/light-menu.js?v=1763986723"></script><!-- <script async src="https://vhencapi13.gcfiles.net/st/stat.js?v= --><!-- "></script> -->
+
+</body>
+</html>
+
+

@@ -41,7 +41,7 @@
 
 		window.currencyLabels = {"RUB":"RUB","USD":"USD","EUR":"EUR","GBP":"GBP","BYR":"BYR","BYN":"BYN","KZT":"KZT","UAH":"UAH","AUD":"AUD","DKK":"DKK","CHF":"CHF","SEK":"SEK","ZAR":"ZAR","AMD":"AMD","RON":"RON","BRL":"BRL","ILS":"ILS","MYR":"MYR","SGD":"SGD","KGS":"KGS","CAD":"CAD","MXN":"MXN","JPY":"JPY","UZS":"UZS","PLN":"PLN","AZN":"AZN","AED":"AED","TRY":"TRY","INR":"INR","RSD":"RSD","CZK":"CZK","MNT":"MNT","NZD":"NZD","BGN":"BGN","IDR":"IDR","CNY":"CNY","GEL":"GEL","COP":"COP","ARS":"ARS","PEN":"PEN","CLP":"CLP","VND":"VND","PHP":"PHP","DOP":"DOP","KRW":"KRW","TWD":"TWD","MDL":"MDL","TJS":"TJS","NOK":"NOK","NGN":"NGN","HKD":"HKD","POINTS":""};
 window.accountSafeUserName = "Guest";
-window.accountUserThumbnail = "<img class=\"user-profile-image user-default-profile-image\" src=\"\/public\/img\/default_profile_50.png\" width=\"50\" alt=\"\">";
+window.accountUserThumbnail = "<img class=\"user-profile-image user-default-profile-image\" src=\"\..\/..\/public\/img\/default_profile_50.png\" width=\"50\" alt=\"\">";
 window.language = "ru";
 window.csrfToken = "l1BSi7AcuRPsbnwgsoIdFbApnyjfaepZy6Dqd3AYnEuiDzvs8n36QbZZTReCxk5ZyUbuWJ0MnwuR66IaBWnuOw==";
 window.requestTime = 1783199579;
@@ -99,101 +99,101 @@ window.gcAccountMenuBadges = {"showQualityMark":false,"qualityMarkHref":"","show
 window.canFileStorage = false;
 	</script>
 
-	<link href="/nassets/css/xdget-view-3f53de8bb8a5edae1beae1a3cb890dbe.css?v=1783178002" rel="stylesheet">
-<link href="/nassets/4b8ca1d0/themes/smoothness/jquery-ui.css?v=1765633902" rel="stylesheet">
-<link href="/nassets/css/redactor-6c38386bcef8b2fbd9233919438c6257.css?v=1783178002" rel="stylesheet">
-<link href="/nassets/25b314e/uploadifive.css?v=1765633900" rel="stylesheet">
-<link href="/nassets/7bc22803/custom_form.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/7bc22803/select.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/7bc22803/multi_select.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/7bc22803/text.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/7bc22803/string.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/7bc22803/checkbox.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/7bc22803/date.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/7bc22803/file.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/7bc22803/password.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/7bc22803/phone.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/7bc22803/phone_confirm.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/7bc22803/numeric.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/28c8bf18/bootstrap-social.css?v=1780064645" rel="stylesheet">
-<link href="/nassets/40e57a39/css/blueimp-gallery.min.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/40e57a39/css/blueimp-gallery-indicator.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/a633eb01/jquery.countdown.css?v=1765633898" rel="stylesheet">
-<link href="/nassets/d142fbf/css/bootstrap.min.css?v=1777880033" rel="stylesheet">
-<link href="/nassets/abe8451a/toast/css/jquery.toast.min.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/7aad1ce7/jquery.emojiarea.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/7aad1ce7/emoji.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/1ee1e72c/css/audio-comments.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/f3d0f6fb/css/like.css?v=1765633900" rel="stylesheet">
-<link href="/nassets/a15a801a/css/subscribe.css?v=1765633901" rel="stylesheet">
-<link href="/nassets/e18c7588/proxima.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/8dac3fb3/css/user-form.css?v=1765633901" rel="stylesheet">
-<link href="/nassets/83a0bbdf/css/flex-audio-js.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/83a0bbdf/css/comments.css?v=1756107347" rel="stylesheet">
-<link href="/nassets/83a0bbdf/css/comment_reply_open.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/9a95ff58/statuses.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/639a08f5/tasks-block.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/e6953c0c/css/modal.css?v=1765633900" rel="stylesheet">
-<link href="/nassets/9f614c7f/notice.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/86fb0827/css/als-granate-vf-new.css?v=1777450802" rel="stylesheet">
-<link href="/nassets/de470cdd/css/all.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/de470cdd/css/v5-font-face.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/de470cdd/css/v4-font-face.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/de470cdd/css/v4-shims.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/de470cdd/css/old.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/5ff1daa/css/bootstrap-datepicker3.min.css?v=1765633902" rel="stylesheet">
-<link href="/nassets/5ff1daa/css/datepicker-kv.min.css?v=1765633902" rel="stylesheet">
-<link href="/nassets/82b491ed/glyphicons.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/3288556b/css/reveal-password.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/b9c49911/css/global.css?v=1777450802" rel="stylesheet">
-<link href="/nassets/44f6feca/manrope.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/7717e45a/css/main.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/7717e45a/css/jquery.toast.min.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/7717e45a/css/fonts.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/78928de/teach.css?v=1765633901" rel="stylesheet">
-<link href="/nassets/2f62ff86/common.css?v=1774347238" rel="stylesheet">
-<link href="/nassets/2f62ff86/common_layout.css?v=1768476450" rel="stylesheet">
-<link href="/nassets/2f62ff86/account_layout.css?v=1782805273" rel="stylesheet">
-<link href="/nassets/2f62ff86/fonts.css?v=1765633900" rel="stylesheet">
-<link href="/nassets/7717e45a/css/menu.css?v=1777450802" rel="stylesheet">
-<link href="/nassets/f3a3f398/notifications.css?v=1765633901" rel="stylesheet">
+	<link href="../../nassets/css/xdget-view-3f53de8bb8a5edae1beae1a3cb890dbe.css?v=1783178002" rel="stylesheet">
+<link href="../../nassets/4b8ca1d0/themes/smoothness/jquery-ui.css?v=1765633902" rel="stylesheet">
+<link href="../../nassets/css/redactor-6c38386bcef8b2fbd9233919438c6257.css?v=1783178002" rel="stylesheet">
+<link href="../../nassets/25b314e/uploadifive.css?v=1765633900" rel="stylesheet">
+<link href="../../nassets/7bc22803/custom_form.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/7bc22803/select.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/7bc22803/multi_select.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/7bc22803/text.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/7bc22803/string.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/7bc22803/checkbox.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/7bc22803/date.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/7bc22803/file.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/7bc22803/password.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/7bc22803/phone.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/7bc22803/phone_confirm.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/7bc22803/numeric.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/28c8bf18/bootstrap-social.css?v=1780064645" rel="stylesheet">
+<link href="../../nassets/40e57a39/css/blueimp-gallery.min.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/40e57a39/css/blueimp-gallery-indicator.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/a633eb01/jquery.countdown.css?v=1765633898" rel="stylesheet">
+<link href="../../nassets/d142fbf/css/bootstrap.min.css?v=1777880033" rel="stylesheet">
+<link href="../../nassets/abe8451a/toast/css/jquery.toast.min.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/7aad1ce7/jquery.emojiarea.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/7aad1ce7/emoji.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/1ee1e72c/css/audio-comments.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/f3d0f6fb/css/like.css?v=1765633900" rel="stylesheet">
+<link href="../../nassets/a15a801a/css/subscribe.css?v=1765633901" rel="stylesheet">
+<link href="../../nassets/e18c7588/proxima.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/8dac3fb3/css/user-form.css?v=1765633901" rel="stylesheet">
+<link href="../../nassets/83a0bbdf/css/flex-audio-js.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/83a0bbdf/css/comments.css?v=1756107347" rel="stylesheet">
+<link href="../../nassets/83a0bbdf/css/comment_reply_open.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/9a95ff58/statuses.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/639a08f5/tasks-block.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/e6953c0c/css/modal.css?v=1765633900" rel="stylesheet">
+<link href="../../nassets/9f614c7f/notice.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/86fb0827/css/als-granate-vf-new.css?v=1777450802" rel="stylesheet">
+<link href="../../nassets/de470cdd/css/all.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/de470cdd/css/v5-font-face.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/de470cdd/css/v4-font-face.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/de470cdd/css/v4-shims.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/de470cdd/css/old.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/5ff1daa/css/bootstrap-datepicker3.min.css?v=1765633902" rel="stylesheet">
+<link href="../../nassets/5ff1daa/css/datepicker-kv.min.css?v=1765633902" rel="stylesheet">
+<link href="../../nassets/82b491ed/glyphicons.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/3288556b/css/reveal-password.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/b9c49911/css/global.css?v=1777450802" rel="stylesheet">
+<link href="../../nassets/44f6feca/manrope.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/7717e45a/css/main.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/7717e45a/css/jquery.toast.min.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/7717e45a/css/fonts.css?v=1765633899" rel="stylesheet">
+<link href="../../nassets/78928de/teach.css?v=1765633901" rel="stylesheet">
+<link href="../../nassets/2f62ff86/common.css?v=1774347238" rel="stylesheet">
+<link href="../../nassets/2f62ff86/common_layout.css?v=1768476450" rel="stylesheet">
+<link href="../../nassets/2f62ff86/account_layout.css?v=1782805273" rel="stylesheet">
+<link href="../../nassets/2f62ff86/fonts.css?v=1765633900" rel="stylesheet">
+<link href="../../nassets/7717e45a/css/menu.css?v=1777450802" rel="stylesheet">
+<link href="../../nassets/f3a3f398/notifications.css?v=1765633901" rel="stylesheet">
 <style></style>
-<script src="/nassets/2b98cd16/jquery.min.js?v=1765633902"></script>
-<script src="/nassets/4b8ca1d0/jquery-ui.min.js?v=1765633902"></script>
-<script src="/nassets/34e59808/js/JsTrans.min.js?v=1765633900"></script>
-<script src="/nassets/c0e0694/dictionary-gen-535872c697740587ab43fcbddef592b487bffa2e.js?v=1783177200"></script>
-<script src="/nassets/25b314e/jquery.uploadifive.min.js?v=1781605037"></script>
-<script src="/nassets/25b314e/uploadifive-rewrite.js?v=1765633900"></script>
-<script src="/nassets/636461e3/jquery.autosize.min.js?v=1765633899"></script>
-<script src="/nassets/c0e0694/dictionary-gen-e3b4b1a84ab353e60c498987f0f879fdacf5b884.js?v=1783177200"></script>
-<script src="/nassets/ec6d9f5b/yii.js?v=1777740740"></script>
-<script src="/nassets/d142fbf/js/bootstrap.min.js?v=1765633902"></script>
-<script src="/nassets/abe8451a/js/jquery.toast.min.js?v=1765633899"></script>
-<script src="/nassets/636461e3/jquery.form.min.js?v=1765633899"></script>
-<script src="/nassets/7aad1ce7/jquery.emojiarea.js?v=1765633899"></script>
-<script src="/nassets/7aad1ce7/emoji.js?v=1765633899"></script>
-<script src="/nassets/1ee1e72c/js/audio-comments.js?v=1777898469"></script>
-<script src="/nassets/1ee1e72c/js/RecordRTC.min.js?v=1765633899"></script>
-<script src="/nassets/8dac3fb3/js/user-form-def.js?v=1765633901"></script>
-<script src="/nassets/f3d0f6fb/js/like.js?v=2"></script>
-<script src="/nassets/a15a801a/js/subscribe.js?v=1765633901"></script>
-<script src="/nassets/7717e45a/js/react/react.min.js?v=1765633899"></script>
-<script src="/nassets/8dac3fb3/js/build/user-form.js?v=1782804667"></script>
-<script src="/nassets/7717e45a/js/socket.io.slim.js?v=1765633899"></script>
-<script src="/nassets/7717e45a/js/socket.js?v=1765633899"></script>
-<script src="/nassets/7717e45a/js/websocket.global.js?v=1765633899"></script>
-<script src="/nassets/83a0bbdf/js/comments.js?v=1742806457"></script>
-<script src="/nassets/83a0bbdf/js/comment_reply_open.js?v=1765633899"></script>
-<script src="/nassets/83a0bbdf/js/comment_template_dialog.js?v=1765633899"></script>
-<script src="/nassets/e6953c0c/js/modal.js?v=1765633900"></script>
-<script src="/nassets/636461e3/jquery.sticky.js?v=1765633899"></script>
-<script src="/nassets/5ff1daa/js/bootstrap-datepicker.min.js?v=1765633902"></script>
-<script src="/nassets/5ff1daa/js/datepicker-kv.min.js?v=1765633902"></script>
-<script src="/nassets/c73799f4/js/datepicker-reset.js?v=1765633899"></script>
-<script src="/nassets/b9c49911/js/global-function.js?v=1779966196"></script>
-<script src="/nassets/3288556b/js/reveal-password.js?v=1765633899"></script>
-<script src="/nassets/b9c49911/js/main.js?v=1777450802"></script>
-<script src="/nassets/85b801e8/jquery.inputmask.bundle.js?v=1765633902"></script>
+<script src="../../nassets/2b98cd16/jquery.min.js?v=1765633902"></script>
+<script src="../../nassets/4b8ca1d0/jquery-ui.min.js?v=1765633902"></script>
+<script src="../../nassets/34e59808/js/JsTrans.min.js?v=1765633900"></script>
+<script src="../../nassets/c0e0694/dictionary-gen-535872c697740587ab43fcbddef592b487bffa2e.js?v=1783177200"></script>
+<script src="../../nassets/25b314e/jquery.uploadifive.min.js?v=1781605037"></script>
+<script src="../../nassets/25b314e/uploadifive-rewrite.js?v=1765633900"></script>
+<script src="../../nassets/636461e3/jquery.autosize.min.js?v=1765633899"></script>
+<script src="../../nassets/c0e0694/dictionary-gen-e3b4b1a84ab353e60c498987f0f879fdacf5b884.js?v=1783177200"></script>
+<script src="../../nassets/ec6d9f5b/yii.js?v=1777740740"></script>
+<script src="../../nassets/d142fbf/js/bootstrap.min.js?v=1765633902"></script>
+<script src="../../nassets/abe8451a/js/jquery.toast.min.js?v=1765633899"></script>
+<script src="../../nassets/636461e3/jquery.form.min.js?v=1765633899"></script>
+<script src="../../nassets/7aad1ce7/jquery.emojiarea.js?v=1765633899"></script>
+<script src="../../nassets/7aad1ce7/emoji.js?v=1765633899"></script>
+<script src="../../nassets/1ee1e72c/js/audio-comments.js?v=1777898469"></script>
+<script src="../../nassets/1ee1e72c/js/RecordRTC.min.js?v=1765633899"></script>
+<script src="../../nassets/8dac3fb3/js/user-form-def.js?v=1765633901"></script>
+<script src="../../nassets/f3d0f6fb/js/like.js?v=2"></script>
+<script src="../../nassets/a15a801a/js/subscribe.js?v=1765633901"></script>
+<script src="../../nassets/7717e45a/js/react/react.min.js?v=1765633899"></script>
+<script src="../../nassets/8dac3fb3/js/build/user-form.js?v=1782804667"></script>
+<script src="../../nassets/7717e45a/js/socket.io.slim.js?v=1765633899"></script>
+<script src="../../nassets/7717e45a/js/socket.js?v=1765633899"></script>
+<script src="../../nassets/7717e45a/js/websocket.global.js?v=1765633899"></script>
+<script src="../../nassets/83a0bbdf/js/comments.js?v=1742806457"></script>
+<script src="../../nassets/83a0bbdf/js/comment_reply_open.js?v=1765633899"></script>
+<script src="../../nassets/83a0bbdf/js/comment_template_dialog.js?v=1765633899"></script>
+<script src="../../nassets/e6953c0c/js/modal.js?v=1765633900"></script>
+<script src="../../nassets/636461e3/jquery.sticky.js?v=1765633899"></script>
+<script src="../../nassets/5ff1daa/js/bootstrap-datepicker.min.js?v=1765633902"></script>
+<script src="../../nassets/5ff1daa/js/datepicker-kv.min.js?v=1765633902"></script>
+<script src="../../nassets/c73799f4/js/datepicker-reset.js?v=1765633899"></script>
+<script src="../../nassets/b9c49911/js/global-function.js?v=1779966196"></script>
+<script src="../../nassets/3288556b/js/reveal-password.js?v=1765633899"></script>
+<script src="../../nassets/b9c49911/js/main.js?v=1777450802"></script>
+<script src="../../nassets/85b801e8/jquery.inputmask.bundle.js?v=1765633902"></script>
 <script>window.globalCheckboxEnabled=false
 window.persodataConfirm=false
 window.globalCheckboxForPaidOnly=false
@@ -490,7 +490,7 @@ window.chatiumQrAjaxAuth=true;</script>
 			iconClass: 'list-alt',
 			blockTag: 'div',
 			selfBlock: true,
-			selfMeaningful: true							,settings: {"mainSettings":{"label":{"label":"\u041d\u0430\u0434\u043f\u0438\u0441\u044c \u043f\u0435\u0440\u0435\u0434 \u043a\u043d\u043e\u043f\u043a\u0430\u043c\u0438","type":"string"},"button_type":{"label":"\u0422\u0438\u043f \u043a\u043d\u043e\u043f\u043e\u043a","type":"select","values":{"icons":"\u0418\u043a\u043e\u043d\u043a\u0438","buttons":"\u041a\u043d\u043e\u043f\u043a\u0438"}},"button_size":{"label":"\u0420\u0430\u0437\u043c\u0435\u0440 \u043a\u043d\u043e\u043f\u043e\u043a","type":"select","values":{"":"\u041f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e","xs":"\u041e\u0447\u0435\u043d\u044c \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0435","sm":"\u041c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0435","lg":"\u0411\u043e\u043b\u044c\u0448\u0438\u0435"}},"buttons_layout":{"label":"\u0420\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043a\u043d\u043e\u043f\u043e\u043a","type":"select","values":{"":"\u0412 \u0440\u044f\u0434","lines":"\u041a\u0430\u0436\u0434\u0430\u044f \u043d\u0430 \u0441\u0432\u043e\u0435\u0439 \u0441\u0442\u0440\u043e\u0447\u043a\u0435"}},"not_continue_process":{"label":"\u041d\u0435 \u043f\u043e\u0441\u044b\u043b\u0430\u0442\u044c \u0444\u043e\u0440\u043c\u0443 \u043f\u043e\u0441\u043b\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f","type":"checkbox"},"button_prefix":{"label":"\u041f\u0440\u0435\u0444\u0438\u043a\u0441 \u043d\u0430 \u043a\u043d\u043e\u043f\u043a\u0435","type":"string"}},"availableButtons":{"chatium":{"label":"Chatium","img":"\/public\/img\/service\/chatium.png"},"vk":{"label":"\u0412\u043e\u0439\u0442\u0438 \u0441 VK ID","icon":"fa fa-vk"},"yandex_id":{"label":"Yandex ID","icon":""}},"isVkBotEnabled":false}					}
+			selfMeaningful: true							,settings: {"mainSettings":{"label":{"label":"\u041d\u0430\u0434\u043f\u0438\u0441\u044c \u043f\u0435\u0440\u0435\u0434 \u043a\u043d\u043e\u043f\u043a\u0430\u043c\u0438","type":"string"},"button_type":{"label":"\u0422\u0438\u043f \u043a\u043d\u043e\u043f\u043e\u043a","type":"select","values":{"icons":"\u0418\u043a\u043e\u043d\u043a\u0438","buttons":"\u041a\u043d\u043e\u043f\u043a\u0438"}},"button_size":{"label":"\u0420\u0430\u0437\u043c\u0435\u0440 \u043a\u043d\u043e\u043f\u043e\u043a","type":"select","values":{"":"\u041f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e","xs":"\u041e\u0447\u0435\u043d\u044c \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0435","sm":"\u041c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0435","lg":"\u0411\u043e\u043b\u044c\u0448\u0438\u0435"}},"buttons_layout":{"label":"\u0420\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043a\u043d\u043e\u043f\u043e\u043a","type":"select","values":{"":"\u0412 \u0440\u044f\u0434","lines":"\u041a\u0430\u0436\u0434\u0430\u044f \u043d\u0430 \u0441\u0432\u043e\u0435\u0439 \u0441\u0442\u0440\u043e\u0447\u043a\u0435"}},"not_continue_process":{"label":"\u041d\u0435 \u043f\u043e\u0441\u044b\u043b\u0430\u0442\u044c \u0444\u043e\u0440\u043c\u0443 \u043f\u043e\u0441\u043b\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f","type":"checkbox"},"button_prefix":{"label":"\u041f\u0440\u0435\u0444\u0438\u043a\u0441 \u043d\u0430 \u043a\u043d\u043e\u043f\u043a\u0435","type":"string"}},"availableButtons":{"chatium":{"label":"Chatium","img":"\..\/..\/public\/img\/service\/chatium.png"},"vk":{"label":"\u0412\u043e\u0439\u0442\u0438 \u0441 VK ID","icon":"fa fa-vk"},"yandex_id":{"label":"Yandex ID","icon":""}},"isVkBotEnabled":false}					}
 	) } );
 </script>
 
@@ -1235,7 +1235,7 @@ window.chatiumQrAjaxAuth=true;</script>
 			group: "blocks",
 			jsName:	'xdget_systemPage',
 			label: 'Substitution',
-			defaultParams: {"hideLeftMenu":false,"children":[{"type":"area","params":{"areaName":"PAGE","children":[{"xdgetId":99945,"type":"loginUserForm","params":{"elClass":"standard-form container-center","default_state":"login","state":"register","children":[{"type":"fixedContainer","params":{"elementTitle":"\u0411\u043b\u043e\u043a \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u0430\u0446\u0438\u0438","fixedClass":"login-form state-form","children":[{"type":"tag","params":{"content":"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f","size":"h4","elClass":"btn btn-link pull-right","fixedClass":"btn-register"}},{"type":"header","params":{"content":"\u0412\u043e\u0439\u0442\u0438","size":"h2"}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"email","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441"}}}},{"type":"userFormField","params":{"fieldType":"password","fieldName":"password","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u0430\u0440\u043e\u043b\u044c"}}}},{"type":"row","params":{"elClass":"form-buttons","float_width":true,"children":[{"type":"button","params":{"content":"\u0412\u043e\u0439\u0442\u0438","elClass":"btn btn-success"}},{"type":"button","params":{"content":"\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u043f\u0430\u0440\u043e\u043b\u044c","elClass":"btn btn-link","fixedClass":"btn-remind"}},{"type":"socialUserFormField","params":{"elClass":"pull-right","button_type":"icons","label":""}}]}}]}},{"type":"fixedContainer","params":{"elementTitle":"\u0411\u043b\u043e\u043a \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438","fixedClass":"register-form state-form","children":[{"type":"button","params":{"content":"\u0412\u0445\u043e\u0434","elClass":"btn btn-link pull-right","fixedClass":"btn-login"}},{"type":"header","params":{"content":"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f","size":"h2"}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"email","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441"}}}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"full_name","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448\u0435 \u0438\u043c\u044f \u0438 \u0444\u0430\u043c\u0438\u043b\u0438\u044e"}}}},{"type":"row","params":{"elClass":"form-buttons","children":[{"type":"container","params":{"children":[{"type":"button","params":{"content":"\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f","elClass":"btn btn-success"}}]}},{"type":"container","params":{"children":[{"type":"socialUserFormField","params":{"elClass":"text-right"}}]}}]}}]}},{"type":"fixedContainer","params":{"elementTitle":"\u0411\u043b\u043e\u043a \u0434\u043b\u044f \u0443\u0436\u0435 \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e","fixedClass":"logined-form state-form","children":[{"type":"header","params":{"content":"\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435, :first_name","size":"h2"}},{"type":"html","params":{"content":"\u0412\u044b \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u043e\u0432\u0430\u043d\u044b \u0432 \u044d\u0442\u043e\u043c \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0435<BR><BR>"}},{"type":"div","params":{"elClass":"form-buttons","children":[{"type":"button","params":{"content":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u0432 \u0430\u043a\u043a\u0430\u0443\u043d\u0442","fixedClass":"btn-enter","elClass":"btn btn-primary"}},{"type":"button","params":{"content":"\u0421\u043c\u0435\u043d\u0438\u0442\u044c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f","fixedClass":"btn-logout","elClass":"btn btn-link pull-right"}}]}}]}}],"redirect_url":"\/cms\/system\/start?afterLogin=true"}},{"type":"container","params":{"elClass":"text-center","children":[{"type":"telegram-login","style":{"margin-top":"20","text-align":"center"}},{"type":"html","params":{"content":"<a href=\"\/cms\/system\/contact\">\u041e\u0431\u0440\u0430\u0442\u043d\u0430\u044f \u0441\u0432\u044f\u0437\u044c<\/a>"},"style":{"padding-top":"20","text-align":"center"}}]}}]}}]},
+			defaultParams: {"hideLeftMenu":false,"children":[{"type":"area","params":{"areaName":"PAGE","children":[{"xdgetId":99945,"type":"loginUserForm","params":{"elClass":"standard-form container-center","default_state":"login","state":"register","children":[{"type":"fixedContainer","params":{"elementTitle":"\u0411\u043b\u043e\u043a \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u0430\u0446\u0438\u0438","fixedClass":"login-form state-form","children":[{"type":"tag","params":{"content":"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f","size":"h4","elClass":"btn btn-link pull-right","fixedClass":"btn-register"}},{"type":"header","params":{"content":"\u0412\u043e\u0439\u0442\u0438","size":"h2"}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"email","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441"}}}},{"type":"userFormField","params":{"fieldType":"password","fieldName":"password","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u0430\u0440\u043e\u043b\u044c"}}}},{"type":"row","params":{"elClass":"form-buttons","float_width":true,"children":[{"type":"button","params":{"content":"\u0412\u043e\u0439\u0442\u0438","elClass":"btn btn-success"}},{"type":"button","params":{"content":"\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u043f\u0430\u0440\u043e\u043b\u044c","elClass":"btn btn-link","fixedClass":"btn-remind"}},{"type":"socialUserFormField","params":{"elClass":"pull-right","button_type":"icons","label":""}}]}}]}},{"type":"fixedContainer","params":{"elementTitle":"\u0411\u043b\u043e\u043a \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438","fixedClass":"register-form state-form","children":[{"type":"button","params":{"content":"\u0412\u0445\u043e\u0434","elClass":"btn btn-link pull-right","fixedClass":"btn-login"}},{"type":"header","params":{"content":"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f","size":"h2"}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"email","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448 \u044d\u043b. \u0430\u0434\u0440\u0435\u0441"}}}},{"type":"userFormField","params":{"fieldType":"string","fieldName":"full_name","fieldOptions":{"label":"","required":true,"settings":{"placeholder":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0432\u0430\u0448\u0435 \u0438\u043c\u044f \u0438 \u0444\u0430\u043c\u0438\u043b\u0438\u044e"}}}},{"type":"row","params":{"elClass":"form-buttons","children":[{"type":"container","params":{"children":[{"type":"button","params":{"content":"\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f","elClass":"btn btn-success"}}]}},{"type":"container","params":{"children":[{"type":"socialUserFormField","params":{"elClass":"text-right"}}]}}]}}]}},{"type":"fixedContainer","params":{"elementTitle":"\u0411\u043b\u043e\u043a \u0434\u043b\u044f \u0443\u0436\u0435 \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e","fixedClass":"logined-form state-form","children":[{"type":"header","params":{"content":"\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435, :first_name","size":"h2"}},{"type":"html","params":{"content":"\u0412\u044b \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u043e\u0432\u0430\u043d\u044b \u0432 \u044d\u0442\u043e\u043c \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0435<BR><BR>"}},{"type":"div","params":{"elClass":"form-buttons","children":[{"type":"button","params":{"content":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u0432 \u0430\u043a\u043a\u0430\u0443\u043d\u0442","fixedClass":"btn-enter","elClass":"btn btn-primary"}},{"type":"button","params":{"content":"\u0421\u043c\u0435\u043d\u0438\u0442\u044c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f","fixedClass":"btn-logout","elClass":"btn btn-link pull-right"}}]}}]}}],"redirect_url":"\..\/..\/cms\/system\/start?afterLogin=true"}},{"type":"container","params":{"elClass":"text-center","children":[{"type":"telegram-login","style":{"margin-top":"20","text-align":"center"}},{"type":"html","params":{"content":"<a href=\"\..\/..\/cms\/system\/contact\">\u041e\u0431\u0440\u0430\u0442\u043d\u0430\u044f \u0441\u0432\u044f\u0437\u044c<\/a>"},"style":{"padding-top":"20","text-align":"center"}}]}}]}}]},
 			allowedParentTypes: true,
 			iconClass: 'fa fa-circle-o',
 			blockTag: 'div',
@@ -1609,7 +1609,7 @@ window.chatiumQrAjaxAuth=true;</script>
 </div>
 
 
-	<script src="/public/js/gccounter-new.js?1"></script>
+	<script src="../../public/js/gccounter-new.js?1"></script>
 
 
 														<script>
@@ -1862,34 +1862,34 @@ window.chatiumQrAjaxAuth=true;</script>
 	
 
 
-<script src="/nassets/js/xdget-view-ca11d7935d3a81ff8ae46dff68d943d7.js?v=1783178002"></script>
-<script src="/nassets/js/redactor-83938a38b0d8ee30e21a18eb34fe4e00.js?v=1783178002"></script>
-<script src="/nassets/ea450fdc/file_widget.js?v=1765633899"></script>
-<script src="/nassets/21b14ffb/abstract_field.js?v=1774347238"></script>
-<script src="/nassets/7bc22803/select.js?v=1765633899"></script>
-<script src="/nassets/2d15d0d2/multi_select.js?v=1780395911"></script>
-<script src="/nassets/7bc22803/text.js?v=1765633899"></script>
-<script src="/nassets/c3764e4b/string.js?v=1779966196"></script>
-<script src="/nassets/7bc22803/checkbox.js?v=1765633899"></script>
-<script src="/nassets/7bc22803/date.js?v=1765633899"></script>
-<script src="/nassets/21b14ffb/file.js?v=1774347238"></script>
-<script src="/nassets/7bc22803/password.js?v=1765633899"></script>
-<script src="/nassets/7bc22803/phone.js?v=1765633899"></script>
-<script src="/nassets/7bc22803/phone_confirm.js?v=1765633899"></script>
-<script src="/nassets/7bc22803/numeric.js?v=1765633899"></script>
-<script src="/nassets/a4fd5c80/auth.js?v=1765633901"></script>
-<script src="/nassets/40e57a39/js/blueimp-gallery.min.js?v=1765633899"></script>
-<script src="/nassets/40e57a39/js/jquery.blueimp-gallery.min.js?v=1765633899"></script>
-<script src="/nassets/40e57a39/js/blueimp-gallery-indicator.js?v=1765633899"></script>
-<script src="/nassets/d40f6009/js/localstore.js?v=1765633901"></script>
-<script src="/nassets/7bc22803/custom_form.js?v=1765633899"></script>
-<script src="/nassets/7992da16/jquery.plugin.min.js?v=1765633899"></script>
-<script src="/nassets/7992da16/jquery.countdown.min.js?v=1765633899"></script>
-<script src="/nassets/7992da16/jquery.countdown-en.js?v=1765633899"></script>
-<script src="/nassets/42c11533/jquery.countdown-ru-with-translate.js?v=1765633899"></script>
-<script src="/nassets/639a08f5/build/tasks-block.js?v=1765633899"></script>
-<script src="/nassets/9f614c7f/notice.js?v=1782116784"></script>
-<script src="/nassets/7717e45a/js/light-menu.js?v=1763986723"></script><!-- <script async src="https://vhencapi13.gcfiles.net/st/stat.js?v= --><!-- "></script> -->
+<script src="../../nassets/js/xdget-view-ca11d7935d3a81ff8ae46dff68d943d7.js?v=1783178002"></script>
+<script src="../../nassets/js/redactor-83938a38b0d8ee30e21a18eb34fe4e00.js?v=1783178002"></script>
+<script src="../../nassets/ea450fdc/file_widget.js?v=1765633899"></script>
+<script src="../../nassets/21b14ffb/abstract_field.js?v=1774347238"></script>
+<script src="../../nassets/7bc22803/select.js?v=1765633899"></script>
+<script src="../../nassets/2d15d0d2/multi_select.js?v=1780395911"></script>
+<script src="../../nassets/7bc22803/text.js?v=1765633899"></script>
+<script src="../../nassets/c3764e4b/string.js?v=1779966196"></script>
+<script src="../../nassets/7bc22803/checkbox.js?v=1765633899"></script>
+<script src="../../nassets/7bc22803/date.js?v=1765633899"></script>
+<script src="../../nassets/21b14ffb/file.js?v=1774347238"></script>
+<script src="../../nassets/7bc22803/password.js?v=1765633899"></script>
+<script src="../../nassets/7bc22803/phone.js?v=1765633899"></script>
+<script src="../../nassets/7bc22803/phone_confirm.js?v=1765633899"></script>
+<script src="../../nassets/7bc22803/numeric.js?v=1765633899"></script>
+<script src="../../nassets/a4fd5c80/auth.js?v=1765633901"></script>
+<script src="../../nassets/40e57a39/js/blueimp-gallery.min.js?v=1765633899"></script>
+<script src="../../nassets/40e57a39/js/jquery.blueimp-gallery.min.js?v=1765633899"></script>
+<script src="../../nassets/40e57a39/js/blueimp-gallery-indicator.js?v=1765633899"></script>
+<script src="../../nassets/d40f6009/js/localstore.js?v=1765633901"></script>
+<script src="../../nassets/7bc22803/custom_form.js?v=1765633899"></script>
+<script src="../../nassets/7992da16/jquery.plugin.min.js?v=1765633899"></script>
+<script src="../../nassets/7992da16/jquery.countdown.min.js?v=1765633899"></script>
+<script src="../../nassets/7992da16/jquery.countdown-en.js?v=1765633899"></script>
+<script src="../../nassets/42c11533/jquery.countdown-ru-with-translate.js?v=1765633899"></script>
+<script src="../../nassets/639a08f5/build/tasks-block.js?v=1765633899"></script>
+<script src="../../nassets/9f614c7f/notice.js?v=1782116784"></script>
+<script src="../../nassets/7717e45a/js/light-menu.js?v=1763986723"></script><!-- <script async src="https://vhencapi13.gcfiles.net/st/stat.js?v= --><!-- "></script> -->
 
 </body>
 </html>

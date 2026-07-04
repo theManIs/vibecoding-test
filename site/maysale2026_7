@@ -77,32 +77,32 @@ window.canFileStorage = false;
 				<link rel="shortcut icon"
 			  href="https://fs.getcourse.ru/fileservice/file/download/a/934144/sc/240/h/fb783df3c47bb9bdf8432ac158d24131.png">
 	
-	<link href="/nassets/82b491ed/glyphicons.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/3288556b/css/reveal-password.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/css/superlite-block-3b3d45c8c82d97c135d0a114931a83b4.css?v=1783178002" rel="stylesheet" async="async">
-<link href="/public/fonts/gfonts/open-sans/open-sans-cyr-swap.css" rel="stylesheet" async="async">
-<link href="/public/fonts/gfonts/roboto/roboto-cyr-swap.css" rel="stylesheet" async="async">
-<link href="/nassets/79a2fae1/css/button.css?v=1765633901" rel="stylesheet">
-<link href="/nassets/de470cdd/css/all.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/de470cdd/css/v5-font-face.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/de470cdd/css/v4-font-face.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/de470cdd/css/v4-shims.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/de470cdd/css/old.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/d40f6009/deps/css/bootstrap-modal.min.css?v=1765633901" rel="stylesheet">
-<link href="/nassets/d40f6009/css/blocks-modal.css?v=1765633901" rel="stylesheet">
-<link href="/nassets/d40f6009/deps/css/bootstrap-table.min.css?v=1765633901" rel="stylesheet">
-<link href="/nassets/e6953c0c/css/modal.css?v=1765633900" rel="stylesheet">
-<link href="/nassets/e18c7588/proxima.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/4b8ca1d0/themes/smoothness/jquery-ui.css?v=1765633902" rel="stylesheet">
-<link href="/nassets/9f614c7f/notice.css?v=1765633899" rel="stylesheet">
-<link href="/nassets/86fb0827/css/als-granate-vf-new.css?v=1777450802" rel="stylesheet">
-<script src="/nassets/2b98cd16/jquery.min.js?v=1765633902"></script>
-<script src="/nassets/b9c49911/js/global-function.js?v=1779966196"></script>
-<script src="/nassets/3288556b/js/reveal-password.js?v=1765633899"></script>
-<script src="/nassets/34e59808/js/JsTrans.min.js?v=1765633900"></script>
-<script src="/nassets/c0e0694/dictionary-gen-535872c697740587ab43fcbddef592b487bffa2e.js?v=1783177200"></script>
-<script src="/nassets/c0e0694/dictionary-gen-53b2006c21efcdc033102de4e8254436791bf3ed.js?v=1783177200"></script>
-<script src="/nassets/4b8ca1d0/jquery-ui.min.js?v=1765633902"></script>
+	<link href="nassets/82b491ed/glyphicons.css?v=1765633899" rel="stylesheet">
+<link href="nassets/3288556b/css/reveal-password.css?v=1765633899" rel="stylesheet">
+<link href="nassets/css/superlite-block-3b3d45c8c82d97c135d0a114931a83b4.css?v=1783178002" rel="stylesheet" async="async">
+<link href="public/fonts/gfonts/open-sans/open-sans-cyr-swap.css" rel="stylesheet" async="async">
+<link href="public/fonts/gfonts/roboto/roboto-cyr-swap.css" rel="stylesheet" async="async">
+<link href="nassets/79a2fae1/css/button.css?v=1765633901" rel="stylesheet">
+<link href="nassets/de470cdd/css/all.css?v=1765633899" rel="stylesheet">
+<link href="nassets/de470cdd/css/v5-font-face.css?v=1765633899" rel="stylesheet">
+<link href="nassets/de470cdd/css/v4-font-face.css?v=1765633899" rel="stylesheet">
+<link href="nassets/de470cdd/css/v4-shims.css?v=1765633899" rel="stylesheet">
+<link href="nassets/de470cdd/css/old.css?v=1765633899" rel="stylesheet">
+<link href="nassets/d40f6009/deps/css/bootstrap-modal.min.css?v=1765633901" rel="stylesheet">
+<link href="nassets/d40f6009/css/blocks-modal.css?v=1765633901" rel="stylesheet">
+<link href="nassets/d40f6009/deps/css/bootstrap-table.min.css?v=1765633901" rel="stylesheet">
+<link href="nassets/e6953c0c/css/modal.css?v=1765633900" rel="stylesheet">
+<link href="nassets/e18c7588/proxima.css?v=1765633899" rel="stylesheet">
+<link href="nassets/4b8ca1d0/themes/smoothness/jquery-ui.css?v=1765633902" rel="stylesheet">
+<link href="nassets/9f614c7f/notice.css?v=1765633899" rel="stylesheet">
+<link href="nassets/86fb0827/css/als-granate-vf-new.css?v=1777450802" rel="stylesheet">
+<script src="nassets/2b98cd16/jquery.min.js?v=1765633902"></script>
+<script src="nassets/b9c49911/js/global-function.js?v=1779966196"></script>
+<script src="nassets/3288556b/js/reveal-password.js?v=1765633899"></script>
+<script src="nassets/34e59808/js/JsTrans.min.js?v=1765633900"></script>
+<script src="nassets/c0e0694/dictionary-gen-535872c697740587ab43fcbddef592b487bffa2e.js?v=1783177200"></script>
+<script src="nassets/c0e0694/dictionary-gen-53b2006c21efcdc033102de4e8254436791bf3ed.js?v=1783177200"></script>
+<script src="nassets/4b8ca1d0/jquery-ui.min.js?v=1765633902"></script>
 <script>window.globalCheckboxEnabled=false
 window.persodataConfirm=false
 window.globalCheckboxForPaidOnly=false
@@ -171,21 +171,21 @@ window.isLegalReworkFeatureEnabled=true</script>        <title></title>
 	<div class="lt-block-wrapper">
 	<style id="rawCss3889830"> @font-face {
     font-family: 'Gilroy';
-    src: url('/fileservice/file/download/h/c5ad85b5bf16600a49d40ad5ed235e33.woff/a/934144/sc/228') format('woff');
+    src: url('fileservice/file/download/h/c5ad85b5bf16600a49d40ad5ed235e33.woff/a/934144/sc/228') format('woff');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Gilroy';
-    src: url('/fileservice/file/download/h/6e5d6a1c28b12636f6043ff99fc0ce86.woff/a/934144/sc/205') format('woff');
+    src: url('fileservice/file/download/h/6e5d6a1c28b12636f6043ff99fc0ce86.woff/a/934144/sc/205') format('woff');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Gilroy';
-    src: url('/fileservice/file/download/h/a0b69f25a8d7f98144131ebbd1a90d1e.woff/a/934144/sc/234') format('woff');
+    src: url('fileservice/file/download/h/a0b69f25a8d7f98144131ebbd1a90d1e.woff/a/934144/sc/234') format('woff');
     font-weight: 600;
     font-style: normal;
 }
@@ -8431,9 +8431,9 @@ document.querySelectorAll('.faq-question').forEach(question => {
     </div>
 
     <div class="police">
-        <a href="https://usmanovafit.gymteam.ru/oferta_fitnes" rel="noreferrer">Оферта</a><br>
-        <a href="https://usmanovafit.gymteam.ru/protection_fitnes" target="_blank" rel="noreferrer">Политика конфиденциальности</a><br>
-        <a href="https://usmanovafit.gymteam.ru/personaldata" target="_blank" rel="noreferrer">Согласие на обработку персональных данных</a>
+        <a href="oferta_fitnes" rel="noreferrer">Оферта</a><br>
+        <a href="protection_fitnes" target="_blank" rel="noreferrer">Политика конфиденциальности</a><br>
+        <a href="personaldata" target="_blank" rel="noreferrer">Согласие на обработку персональных данных</a>
     </div>
 
     <div class="social-links">
@@ -10431,18 +10431,18 @@ $( function() {
 		cursor: pointer;
 	}
 </style>
-	<script src="/nassets/js/superlite-block-abe5dddff141bb1b6762071a4f0ff3e8.js?v=1783178002"></script>
-<script src="/nassets/3c3a8ce1/js/replace.js?v=1765633900"></script>
-<script src="/nassets/7992da16/jquery.plugin.min.js?v=1765633899"></script>
-<script src="/nassets/7992da16/jquery.countdown.min.js?v=1765633899"></script>
-<script src="/nassets/7992da16/jquery.countdown-en.js?v=1765633899"></script>
-<script src="/nassets/42c11533/jquery.countdown-ru-with-translate.js?v=1765633899"></script>
-<script src="/nassets/d40f6009/deps/js/bootstrap-core.min.js?v=1765633901"></script>
-<script src="/nassets/e6953c0c/js/modal.js?v=1765633900"></script>
-<script src="/nassets/d40f6009/js/localstore.js?v=1765633901"></script>
-<script src="/nassets/9f614c7f/notice.js?v=1782116784"></script>
+	<script src="nassets/js/superlite-block-abe5dddff141bb1b6762071a4f0ff3e8.js?v=1783178002"></script>
+<script src="nassets/3c3a8ce1/js/replace.js?v=1765633900"></script>
+<script src="nassets/7992da16/jquery.plugin.min.js?v=1765633899"></script>
+<script src="nassets/7992da16/jquery.countdown.min.js?v=1765633899"></script>
+<script src="nassets/7992da16/jquery.countdown-en.js?v=1765633899"></script>
+<script src="nassets/42c11533/jquery.countdown-ru-with-translate.js?v=1765633899"></script>
+<script src="nassets/d40f6009/deps/js/bootstrap-core.min.js?v=1765633901"></script>
+<script src="nassets/e6953c0c/js/modal.js?v=1765633900"></script>
+<script src="nassets/d40f6009/js/localstore.js?v=1765633901"></script>
+<script src="nassets/9f614c7f/notice.js?v=1782116784"></script>
     <script async src="https://usmanovafit.gymteam.ru/chtm/s/metric/clarity.js"></script>
 
-			<script src="/public/js/gccounter-new.js?1"></script>
+			<script src="public/js/gccounter-new.js?1"></script>
 	<!-- <script async src="https://vhencapi13.gcfiles.net/st/stat.js?v=--><!--"></script>-->
 					</body>
